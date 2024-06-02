@@ -1,0 +1,6332 @@
+{
+  "0": [
+    39.9655697,
+    -75.18096609999999,
+    "Philadelphia Museum of Art, Philadelphia, PA, US",
+    "Philadelphia, United States"
+  ],
+  "1": [
+    40.7794366,
+    -73.963244,
+    "Metropolitan Museum of Art (Met), New York City, NY, US",
+    "New York, United States"
+  ],
+  "2": [
+    38.8978934,
+    -77.02306879999999,
+    "Smithsonian American Art Museum, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "3": [
+    41.8796031,
+    -87.6223504,
+    "Art Institute of Chicago, Chicago, IL, US",
+    "Chicago, United States"
+  ],
+  "4": [
+    40.4160406,
+    -3.6949254,
+    "Thyssen-Bornemisza Museum, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "5": [
+    40.7614327,
+    -73.97762159999999,
+    "Museum of Modern Art (MoMA), New York City, NY, US",
+    "New York, United States"
+  ],
+  "6": [
+    -35.300631,
+    149.136837,
+    "National Gallery of Australia (NGA), Canberra, Australia",
+    "Parkes, Australia"
+  ],
+  "7": [
+    32.7876959,
+    -96.8010444,
+    "Dallas Museum of Art, Dallas, TX, US",
+    "Dallas, United States"
+  ],
+  "8": [
+    40.7829796,
+    -73.9589706,
+    "Solomon R. Guggenheim Museum, New York City, NY, US",
+    "New York, United States"
+  ],
+  "9": [
+    39.7761596,
+    -94.8231734,
+    "Albrecht-Kemper Museum of Art, Saint Joseph, MO, US",
+    "Saint Joseph, United States"
+  ],
+  "10": [
+    42.3593793,
+    -83.06450099999999,
+    "Detroit Institute of Arts, Detroit, MI, US",
+    "Detroit, United States"
+  ],
+  "11": [
+    40.7395877,
+    -74.0088629,
+    "Whitney Museum of American Art, New York City, NY, US",
+    "New York, United States"
+  ],
+  "12": [
+    52.3580111,
+    4.8797554000000005,
+    "Stedelijk Museum, Amsterdam, Netherlands",
+    "Amsterdam, Netherlands"
+  ],
+  "13": [
+    -27.4724407,
+    153.0185946,
+    "Queensland Art Gallery (QAG), Brisbane, Australia",
+    "South Brisbane, Australia"
+  ],
+  "14": [
+    51.507595300000006,
+    -0.0993564,
+    "Tate Modern, London, UK",
+    "United Kingdom"
+  ],
+  "15": [
+    48.860642,
+    2.352245,
+    "Georges Pompidou Center, Paris, France",
+    "Paris, France"
+  ],
+  "16": [
+    48.8598775,
+    2.362285,
+    "Mus\u00e9e Picasso, Paris, France",
+    "Paris, France"
+  ],
+  "17": [
+    38.8881608,
+    -77.0229682,
+    "Hirshhorn Museum and Sculpture Garden, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "18": [
+    -37.8225942,
+    144.9689278,
+    "National Gallery of Victoria (NGV), Melbourne, Australia",
+    "Melbourne, Australia"
+  ],
+  "19": [
+    55.9508229,
+    -3.2276361,
+    "Scottish National Gallery of Modern Art, Edinburgh, UK",
+    "United Kingdom"
+  ],
+  "20": [
+    53.5554063,
+    10.0028265,
+    "Kunsthalle Hamburg, Hamburg, Germany",
+    "Hamburg, Germany"
+  ],
+  "21": [
+    48.7801002,
+    9.1865854,
+    "Staatsgalerie Stuttgart, Stuttgart, Germany",
+    "Stuttgart, Germany"
+  ],
+  "22": [
+    38.6393062,
+    -90.2944911,
+    "Saint Louis Art Museum, St. Louis, MO, US",
+    "St. Louis, United States"
+  ],
+  "23": [
+    51.2166377,
+    6.7739904,
+    "Kunstsammlung Nordrhein-Westfalen, D\u00fcsseldorf, Germany",
+    "D\u00fcsseldorf, Germany"
+  ],
+  "24": [
+    48.1469831,
+    11.5630631,
+    "Bavarian State Painting Collections, Munich, Germany",
+    "M\u00fcnchen, Germany"
+  ],
+  "25": [
+    42.3740898,
+    -71.11435820000001,
+    "Harvard Art Museums, Cambridge, MA, US",
+    "Cambridge, United States"
+  ],
+  "26": [
+    42.3741448,
+    -71.113784,
+    "Busch\u2013Reisinger Museum (Harvard Art Museums), Cambridge, MA, US",
+    "Cambridge, United States"
+  ],
+  "27": [
+    53.0729638,
+    8.8135821,
+    "Kunsthalle Bremen, Bremen, Germany",
+    "Bremen, Germany"
+  ],
+  "28": [
+    51.4426458,
+    7.0050836,
+    "Folkwang Museum, Essen, Germany",
+    "Essen, Germany"
+  ],
+  "29": [
+    42.3740898,
+    -71.11435820000001,
+    "Fogg Museum (Harvard Art Museums), Cambridge, MA, US",
+    "Cambridge, United States"
+  ],
+  "30": [
+    44.9585001,
+    -93.273218,
+    "Minneapolis Institute of Art, Minneapolis, MN, US",
+    "Minneapolis, United States"
+  ],
+  "31": [
+    40.7429427,
+    -74.1714034,
+    "Newark Museum, Newark, NJ, US",
+    "Newark, United States"
+  ],
+  "32": [
+    42.339381,
+    -71.094048,
+    "Museum of Fine Arts (MFA), Boston, MA, US",
+    "Boston, United States"
+  ],
+  "33": [
+    37.771516,
+    -122.468647,
+    "Fine Arts Museums of San Francisco, San Francisco, CA, US",
+    "San Francisco, United States"
+  ],
+  "34": [
+    38.9118575,
+    -77.0469689,
+    "Philips Collection, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "35": [
+    42.93245,
+    -78.875618,
+    "Albright-Knox Art Gallery, Buffalo, NY, US",
+    "Buffalo, United States"
+  ],
+  "36": [
+    41.30839,
+    -72.93095799999999,
+    "Yale University Art Gallery (Yale University), New Haven, CT, US",
+    "New Haven, United States"
+  ],
+  "37": [
+    44.5249986,
+    -109.0731945,
+    "Buffalo Bill Center of the West, Cody, WY, US",
+    "Cody, United States"
+  ],
+  "38": [
+    32.7318429,
+    -117.14961,
+    "Timken Museum of Art, San Diego, CA, US",
+    "San Diego, United States"
+  ],
+  "39": [
+    33.5222317,
+    -86.8100742,
+    "Birmingham Museum of Art, Birmingham, AL, US",
+    "Birmingham, United States"
+  ],
+  "40": [
+    40.7500545,
+    -74.004138,
+    "Berry-Hill Galleries, New York City, NY, US",
+    "New York, United States"
+  ],
+  "41": [
+    41.7637113,
+    -72.6730855,
+    "Wadsworth Atheneum, Hartford, CT, US",
+    "Hartford, United States"
+  ],
+  "42": [
+    39.9642074,
+    -82.98789719999999,
+    "Columbus Museum of Art, Columbus, OH, US",
+    "Columbus, United States"
+  ],
+  "43": [
+    40.6712062,
+    -73.9636306,
+    "Brooklyn Museum, New York City, NY, US",
+    "United States"
+  ],
+  "44": [
+    41.1055948,
+    -80.6461439,
+    "Butler Institute of American Art, Youngstown, OH, US",
+    "Youngstown, United States"
+  ],
+  "45": [
+    32.747867,
+    -97.368447,
+    "Amon Carter Museum of American Art, Fort Worth, TX, US",
+    "Fort Worth, United States"
+  ],
+  "46": [
+    38.8976763,
+    -77.0365298,
+    "White House, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "47": [
+    47.6075253,
+    -122.3379599,
+    "Seattle Art Museum (SAM), Seattle, WA, US",
+    "Seattle, United States"
+  ],
+  "48": [
+    40.77934870000001,
+    -73.9739079,
+    "New York Historical Society, New York City, NY, US",
+    "New York, United States"
+  ],
+  "49": [
+    42.4473376,
+    -73.25360479999999,
+    "Berkshire Museum, Pittsfield, MA, US",
+    "Pittsfield, United States"
+  ],
+  "50": [
+    41.6583273,
+    -83.55932519999999,
+    "Toledo Museum of Art, Toledo, OH, US",
+    "Toledo, United States"
+  ],
+  "51": [
+    41.695052100000005,
+    44.8020162,
+    "Art Museum of Georgia (AMG), Tbilisi, Georgia",
+    "T'bilisi, Georgia"
+  ],
+  "52": [
+    51.4910621,
+    -0.1277886,
+    "Tate Britain, London, UK",
+    "United Kingdom"
+  ],
+  "53": [
+    57.148029,
+    -2.1025518,
+    "Aberdeen Art Gallery, Aberdeen, UK",
+    "United Kingdom"
+  ],
+  "54": [
+    41.5839213,
+    -93.6810573,
+    "Des Moines Art Center, Des Moines, IA, US",
+    "Des Moines, United States"
+  ],
+  "55": [
+    35.079788,
+    137.151591,
+    "Toyota Municipal Museum of Art, Toyota City, Japan",
+    "Toyota, Japan"
+  ],
+  "56": [
+    51.038248,
+    3.7229135,
+    "Stedelijk Museum voor Actuele Kunst (S.M.A.K), Gent, Belgium",
+    "Gent, Belgium"
+  ],
+  "57": [
+    52.6203922,
+    1.2347131,
+    "Sainsbury Centre for Visual Arts (Univercity of East Anglia), Norwich, UK",
+    "United Kingdom"
+  ],
+  "58": [
+    52.6289326,
+    -1.1278523,
+    "New Walk Museum and Art Gallery, Leicester, UK",
+    "United Kingdom"
+  ],
+  "59": [
+    35.7110379,
+    51.3904998,
+    "Tehran Museum of Contemporary Art (TMoCA), Tehran, Iran",
+    "Tehran, Iran"
+  ],
+  "60": [
+    55.969549,
+    12.542784,
+    "Louisiana Museum of Modern Art, Humlebaek, Denmark",
+    "Humleb\u00e6k, Denmark"
+  ],
+  "61": [
+    48.8603259,
+    2.3524515,
+    "Mus\u00e9e National d'Art Moderne, Paris, France",
+    "Paris, France"
+  ],
+  "62": [
+    47.5881022,
+    7.6510161,
+    "Beyeler Foundation, Riehen, Switzerland",
+    "Riehen, Switzerland"
+  ],
+  "63": [
+    48.8963795,
+    2.3695355,
+    "Fonds National d'Art Contemporain (FNAC), Paris, France",
+    "Paris, France"
+  ],
+  "64": [
+    46.202071,
+    6.14652,
+    "Musee Barbier-Mueller, Geneva, Switzerland",
+    "Gen\u00e8ve, Switzerland"
+  ],
+  "65": [
+    41.9142103,
+    12.4921442,
+    "Borghese Gallery, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "66": [
+    43.7677856,
+    11.2553108,
+    "Uffizi Gallery, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "67": [
+    51.508929,
+    -0.128299,
+    "National Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "68": [
+    59.939831700000006,
+    30.3145597,
+    "Hermitage Museum, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "69": [
+    53.3408887,
+    -6.2522962,
+    "National Gallery of Ireland, Dublin, Ireland",
+    "Ireland"
+  ],
+  "70": [
+    45.0689497,
+    7.6859817,
+    "Sabauda Gallery, Turin, Italy",
+    "Torino, Italy"
+  ],
+  "71": [
+    52.5092869,
+    13.3644977,
+    "Staatliche Museen zu Berlin, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "72": [
+    55.950902,
+    -3.1956862,
+    "Scottish National Gallery, Edinburgh, UK",
+    "United Kingdom"
+  ],
+  "73": [
+    52.26352,
+    10.533116,
+    "Herzog Anton Ulrich Museum, Braunschweig, Germany",
+    "Braunschweig, Germany"
+  ],
+  "74": [
+    41.9057336,
+    12.4523066,
+    "Pinacoteca Vaticana, Vatican",
+    "Citt\u00e0 del Vaticano, Vatican City"
+  ],
+  "75": [
+    55.7472115,
+    37.6054363,
+    "Pushkin Museum, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "76": [
+    45.4718222,
+    9.1877791,
+    "Palazzo Brera, Milan, Italy",
+    "Milano, Italy"
+  ],
+  "77": [
+    27.7659086,
+    -82.6315789,
+    "Salvador Dali Museum, St. Petersburg, FL, US",
+    "St. Petersburg, United States"
+  ],
+  "78": [
+    42.2679879,
+    2.9596627,
+    "Dal\u00ed Theatre and Museum, Figueres, Spain",
+    "Figueres, Spain"
+  ],
+  "79": [
+    46.9511611,
+    7.443162099999999,
+    "Kunstmuseum Bern, Bern, Switzerland",
+    "Bern, Switzerland"
+  ],
+  "80": [
+    40.4208538,
+    -3.687013,
+    "Guillermo De Osma Gallery, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "81": [
+    45.4985219,
+    -73.5794001,
+    "Montreal Museum of Fine Arts (MMFA), Montreal, Canada",
+    "Montr\u00e9al, Canada"
+  ],
+  "82": [
+    34.9216678,
+    139.1054662,
+    "Ikeda Museum of 20th-century Art, Shizuoka, Japan",
+    "It\u014d, Japan"
+  ],
+  "83": [
+    41.5928684,
+    1.8361194,
+    "Museum of Montserrat, Barcelona, Spain",
+    "Montserrat, Spain"
+  ],
+  "84": [
+    40.4079123,
+    -3.6945569,
+    "Museo Nacional Centro de Arte Reina Sof\u00eda (MNCARS), Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "85": [
+    32.077375,
+    34.786828,
+    "Tel Aviv Museum of Art, Tel Aviv, Israel",
+    "Tel Aviv-Yafo, Israel"
+  ],
+  "86": [
+    37.7857182,
+    -122.4010508,
+    "San Francisco Museum of Modern Art (SFMOMA), San Francisco, CA, US",
+    "San Francisco, United States"
+  ],
+  "87": [
+    -22.9173611,
+    -43.1842278,
+    "Museu da Chacara do Ceu, Rio de Janeiro, Brazil",
+    "Brazil"
+  ],
+  "88": [
+    42.727059,
+    -84.4726882,
+    "Broad MSU (Michigan State University), East Lansing, MI, US",
+    "East Lansing, United States"
+  ],
+  "89": [
+    41.5079261,
+    -81.61197229999999,
+    "Cleveland Museum of Art (CMA), Cleveland, OH, US",
+    "Cleveland, United States"
+  ],
+  "90": [
+    52.3634236,
+    9.7402725,
+    "Sprengel Museum, Hanover, Germany",
+    "Hannover, Germany"
+  ],
+  "91": [
+    45.4308209,
+    12.3315374,
+    "Peggy Guggenheim Collection, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "92": [
+    51.2571907,
+    7.1466832,
+    "Von der Heydt Museum, Wuppertal, Germany",
+    "Wuppertal, Germany"
+  ],
+  "93": [
+    45.429535,
+    -75.6989062,
+    "National Gallery of Canada, Ottawa, Canada",
+    "Ottawa, Canada"
+  ],
+  "94": [
+    59.3260466,
+    18.0846879,
+    "Moderna Museet, Stockholm, Sweden",
+    "Sweden"
+  ],
+  "95": [
+    47.3708369,
+    8.5488348,
+    "Kunsthaus Z\u00fcrich, Z\u00fcrich, Switzerland",
+    "Z\u00fcrich, Switzerland"
+  ],
+  "96": [
+    48.8718693,
+    2.3131708,
+    "Andre-Francois Petit Gallery, Paris, France",
+    "Paris, France"
+  ],
+  "97": [
+    51.9143774,
+    4.4730858,
+    "Museum Boijmans van Beuningen, Rotterdam, Netherlands",
+    "Rotterdam, Netherlands"
+  ],
+  "98": [
+    50.1045578,
+    8.6760896,
+    "Museum f\u00fcr Kommunikation, Frankfurt, Germany",
+    "Frankfurt am Main, Germany"
+  ],
+  "99": [
+    35.4569619,
+    139.63064749999998,
+    "Yokohama Museum of Art, Yokohama, Japan",
+    "Yokohama, Japan"
+  ],
+  "100": [
+    46.2012846,
+    6.1501777,
+    "G.E.D. Nahmad Collection, Geneva, Switzerland",
+    "Gen\u00e8ve, Switzerland"
+  ],
+  "101": [
+    47.5540319,
+    7.594192699999999,
+    "Kunstmuseum Basel, Basel, Switzerland",
+    "Basel, Switzerland"
+  ],
+  "102": [
+    48.8865119,
+    2.3398718,
+    "Espace Dal\u00ed, Paris, France",
+    "Paris, France"
+  ],
+  "103": [
+    50.907212,
+    -0.7715909999999999,
+    "West Dean House (Edward James Foundation), Sussex, UK",
+    "West Dean, United Kingdom"
+  ],
+  "104": [
+    50.8416199,
+    4.3581793,
+    "Royal Museums of Fine Arts of Belgium, Brussels, Belgium",
+    "Bruxelles, Belgium"
+  ],
+  "105": [
+    43.03699520000001,
+    -87.9277932,
+    "Haggerty Museum of Art (Marquette University) Milwaukee, WI, US",
+    "Milwaukee, United States"
+  ],
+  "106": [
+    33.5841636,
+    130.37967179999998,
+    "Fukuoka Art Museum, Fukuoka, Japan",
+    "Fukuoka, Japan"
+  ],
+  "107": [
+    55.8685891,
+    -4.2906039,
+    "Kelvingrove Art Gallery and Museum, Glasgow, UK",
+    "United Kingdom"
+  ],
+  "108": [
+    38.891298,
+    -77.019965,
+    "National Gallery of Art, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "109": [
+    41.3828639,
+    2.1767069,
+    "Generalitat de Catalunya, Barcelona, Spain",
+    "Barcelona, Spain"
+  ],
+  "110": [
+    50.940854,
+    6.960230999999999,
+    "Museum Ludwig, Cologne, Germany",
+    "K\u00f6ln, Germany"
+  ],
+  "111": [
+    52.3599976,
+    4.8852188,
+    "Rijksmuseum, Amsterdam, Netherlands",
+    "Amsterdam, Netherlands"
+  ],
+  "112": [
+    34.0773438,
+    -118.4732648,
+    "J. Paul Getty Museum, Los Angeles, CA, US",
+    "Los Angeles, United States"
+  ],
+  "113": [
+    34.0639323,
+    -118.3592293,
+    "Los Angeles County Museum of Art (LACMA), Los Angeles, CA, US",
+    "Los Angeles, United States"
+  ],
+  "114": [
+    52.3803511,
+    4.640344799999999,
+    "Teylers Museum, Haarlem, Netherlands",
+    "Haarlem, Netherlands"
+  ],
+  "115": [
+    51.2088192,
+    4.3943489,
+    "Royal Museum of Fine Arts Antwerp, Belgium",
+    "Antwerpen, Belgium"
+  ],
+  "116": [
+    52.5087445,
+    13.3659822,
+    "Kupferstichkabinett Berlin, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "117": [
+    52.0955802,
+    5.8174162,
+    "Kr\u00f6ller-M\u00fcller Museum, Otterlo, Netherlands",
+    "Otterlo, Netherlands"
+  ],
+  "118": [
+    35.7153869,
+    139.77581379999998,
+    "National Museum of Western Art, Tokyo, Japan",
+    "Taito City, Japan"
+  ],
+  "119": [
+    48.8048649,
+    2.1203554,
+    "Ch\u00e2teau de Versailles, Versailles, France",
+    "Versailles, France"
+  ],
+  "120": [
+    55.741389000000005,
+    37.6208639,
+    "Tretyakov Gallery, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "121": [
+    59.9386284,
+    30.332277099999995,
+    "Russian Museum, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "122": [
+    54.74807,
+    37.234912,
+    "Polenovo (Polenov Museum), Polenovo, Russia",
+    "Strakhovo, Russia"
+  ],
+  "123": [
+    56.2336715,
+    37.9678971,
+    "Abramtsevo Colony, Sergiyev Posad, Russia",
+    "Khotkovo, Russia"
+  ],
+  "124": [
+    50.4494274,
+    30.5306505,
+    "National Art Museum of Ukraine (NAMU), Kyiv, Ukraine",
+    "Kyiv, Ukraine"
+  ],
+  "125": [
+    56.32949130000001,
+    44.0064642,
+    "Nizhny Novgorod State Museum of Fine Arts , Nizhny Novgorod, Russia",
+    "Nizhnij Novgorod, Russia"
+  ],
+  "126": [
+    50.4421888,
+    30.5149217,
+    "Museum of Russian Art (Tereshchenko Museum), Kyiv, Ukraine",
+    "Kyiv, Ukraine"
+  ],
+  "127": [
+    48.8599614,
+    2.3265614,
+    "Mus\u00e9e d'Orsay, Paris, France",
+    "Paris, France"
+  ],
+  "128": [
+    47.3214246,
+    5.0423975,
+    "Mus\u00e9e des Beaux-Arts de Dijon, Dijon, France",
+    "Dijon, France"
+  ],
+  "129": [
+    51.5094236,
+    -0.1281216,
+    "National Portrait Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "130": [
+    51.4564954,
+    -2.6050953,
+    "Bristol City Museum and Art Gallery, Bristol, UK",
+    "United Kingdom"
+  ],
+  "131": [
+    42.7077629,
+    -73.2140281,
+    "Clark Art Institute, Williamstown, MA, US",
+    "Williamstown, United States"
+  ],
+  "132": [
+    45.9599291,
+    -66.6355939,
+    "Beaverbrook Art Gallery, Fredericton, Canada",
+    "Fredericton, Canada"
+  ],
+  "133": [
+    -33.8688037,
+    151.2174138,
+    "Art Gallery of New South Wales (AGNSW), Sydney, Australia",
+    "Sydney, Australia"
+  ],
+  "134": [
+    47.2195345,
+    -1.5474903,
+    "Mus\u00e9e des Beaux-Arts de Nantes, Nantes, France",
+    "Nantes, France"
+  ],
+  "135": [
+    43.6536066,
+    -79.39251229999999,
+    "Art Gallery of Ontario (AGO), Toronto, Canada",
+    "Toronto, Canada"
+  ],
+  "136": [
+    40.706253,
+    -74.018778,
+    "Jewish Museum, New York City, NY, US",
+    "New York, United States"
+  ],
+  "137": [
+    19.4236241,
+    -99.1796952,
+    "Museo de Arte Moderno, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "138": [
+    43.9469953,
+    4.8034028,
+    "Mus\u00e9e Calvet, Avignon, France",
+    "Avignon, France"
+  ],
+  "139": [
+    47.3530452,
+    8.561757499999999,
+    "E.G. B\u00fchrle Foundation, Z\u00fcrich, Switzerland",
+    "Z\u00fcrich, Switzerland"
+  ],
+  "140": [
+    51.5301616,
+    -0.1146483,
+    "Courtauld Institute of Art, London, UK",
+    "United Kingdom"
+  ],
+  "141": [
+    35.2107306,
+    -97.4473889,
+    "Fred Jones Jr. Museum of Art (University of Oklahoma),  Norman, OK, US",
+    "Norman, United States"
+  ],
+  "142": [
+    40.7492298,
+    -74.0044496,
+    "Perls Galleries, New York City, NY, US",
+    "New York, United States"
+  ],
+  "143": [
+    45.7671097,
+    4.8336191,
+    "Mus\u00e9e des Beaux-Arts de Lyon, Lyon, France",
+    "Lyon, France"
+  ],
+  "144": [
+    55.6888127,
+    12.5783303,
+    "National Gallery of Denmark (Statens Museum for Kunst), Copenhagen, Denmark",
+    "K\u00f8benhavn, Denmark"
+  ],
+  "145": [
+    48.8714855,
+    2.3141317,
+    "Daniel Malingue Gallery, Paris, France",
+    "Paris, France"
+  ],
+  "146": [
+    48.8643421,
+    2.2978208,
+    "Mus\u00e9e d'Art Moderne de la Ville de Paris, Paris, France",
+    "Paris, France"
+  ],
+  "147": [
+    43.6116531,
+    3.8801111,
+    "Mus\u00e9e Fabre, Montpellier, France",
+    "Montpellier, France"
+  ],
+  "148": [
+    30.3151378,
+    -81.6769552,
+    "Cummer Museum of Art and Gardens, Jacksonville, FL, US",
+    "Jacksonville, United States"
+  ],
+  "149": [
+    42.2879172,
+    -73.335864,
+    "Norman Rockwell Museum, Stockbridge, MA, US",
+    "Stockbridge, United States"
+  ],
+  "150": [
+    48.1483311,
+    11.5699755,
+    "Alte Pinakothek, Munich, Germany",
+    "M\u00fcnchen, Germany"
+  ],
+  "151": [
+    39.8259606,
+    -86.1856632,
+    "Indianapolis Museum of Art (IMA), Indianapolis, IN, US",
+    "Indianapolis, United States"
+  ],
+  "152": [
+    38.9118575,
+    -77.0469689,
+    "Phillips Collection, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "153": [
+    53.4786943,
+    -2.2413604,
+    "Manchester Art Gallery, Manchester, UK",
+    "United Kingdom"
+  ],
+  "154": [
+    40.4137818,
+    -3.6921271,
+    "Museo del Prado, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "155": [
+    49.0009665,
+    8.3835075,
+    "Staatliche Kunsthalle Karlsruhe, Karlsruhe, Germany",
+    "Karlsruhe, Germany"
+  ],
+  "156": [
+    52.0804322,
+    4.3143148,
+    "Mauritshuis, Hague, Netherlands",
+    "Den Haag, Netherlands"
+  ],
+  "157": [
+    38.9000933,
+    -77.0291116,
+    "National Museum of Women in the Arts (NMWA), Washington, DC, US",
+    "Washington, United States"
+  ],
+  "158": [
+    29.7256229,
+    -95.3905328,
+    "Museum of Fine Arts Houston (MFAH), Houston, TX, US",
+    "Houston, United States"
+  ],
+  "159": [
+    -23.5878333,
+    -46.655652200000006,
+    "S\u00e3o Paulo Museum of Modern Art (MAM), S\u00e3o Paulo, Brazil",
+    "Brazil"
+  ],
+  "160": [
+    49.83703,
+    24.0255735,
+    "Lviv National Art Gallery, Lviv, Ukraine",
+    "L'viv, Ukraine"
+  ],
+  "161": [
+    53.1849512,
+    45.0102342,
+    "Penza Regional Art Gallery (Savitsky Museum), Penza, Russia",
+    "Penza, Russia"
+  ],
+  "162": [
+    40.1790257,
+    44.5143063,
+    "National Gallery of Armenia, Yerevan, Armenia",
+    "Yerevan, Armenia"
+  ],
+  "163": [
+    53.8984747,
+    27.5607685,
+    "Belarusian National Museum of Fine Arts, Minsk, Belarus",
+    "Minsk, Belarus"
+  ],
+  "164": [
+    55.755334,
+    37.6178473,
+    "State Historical Museum, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "165": [
+    59.9375,
+    30.329378100000003,
+    "Apartment Museum of Joseph Brodsky, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "166": [
+    44.613685,
+    33.522346,
+    "Sevastopol Art Museum, Sevastopol, Ukraine",
+    "Sevastopol"
+  ],
+  "167": [
+    59.911506,
+    10.7292472,
+    "National Gallery, Oslo, Norway",
+    "Norway"
+  ],
+  "168": [
+    59.9370377,
+    30.2893921,
+    "Imperial Academy of Arts, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "169": [
+    47.2102044,
+    38.9307581,
+    "Taganrog Museum of Fine Arts, Taganrog, Russia",
+    "Taganrog, Russia"
+  ],
+  "170": [
+    43.7651533,
+    11.2500081,
+    "Palazzo Pitti, Florence,\u00a0Italy",
+    "Firenze, Italy"
+  ],
+  "171": [
+    52.2002134,
+    0.1195238,
+    "Fitzwilliam Museum (University of Cambridge), Cambridge, UK",
+    "United Kingdom"
+  ],
+  "172": [
+    43.6007949,
+    1.4466789999999998,
+    "Mus\u00e9e des Augustins, Toulouse, France",
+    "Toulouse, France"
+  ],
+  "173": [
+    40.417734,
+    -3.7006582,
+    "Real Academia de Bellas Artes de San Fernando, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "174": [
+    48.8606111,
+    2.337644,
+    "Louvre, Paris, France",
+    "Paris, France"
+  ],
+  "175": [
+    47.0895708,
+    5.4892148,
+    "Mus\u00e9e des Beaux-Arts de Dole, Dole, France",
+    "Dole, France"
+  ],
+  "176": [
+    37.3925104,
+    -6.0000265,
+    "Museum of Fine Arts of Seville, Seville, Spain",
+    "Sevilla, Spain"
+  ],
+  "177": [
+    51.2202678,
+    4.4015157,
+    "Cathedral of Our Lady, Antwerp, Belgium",
+    "Antwerpen, Belgium"
+  ],
+  "178": [
+    23.1400785,
+    -82.3573847,
+    "Museo Nacional de Bellas Artes de La Habana, Havana, Cuba",
+    "La Habana, Cuba"
+  ],
+  "179": [
+    43.2659906,
+    -2.9378583,
+    "Bilbao Fine Arts Museum, Bilbao, Spain",
+    "Bilbo, Spain"
+  ],
+  "180": [
+    -23.561414,
+    -46.6558819,
+    "Museo de Arte de Sao Paulo (MASP), Sao Paulo, Brazil",
+    "Brazil"
+  ],
+  "181": [
+    37.3858247,
+    -5.9931068,
+    "Seville Cathedral (Santa Mar\u00eda de la Sede), Seville, Spain",
+    "Sevilla, Spain"
+  ],
+  "182": [
+    50.9375087,
+    6.9582751,
+    "Wallraf-Richartz Museum, Cologne, Germany",
+    "K\u00f6ln, Germany"
+  ],
+  "183": [
+    47.5158038,
+    19.0768998,
+    "Budapest Museum of Fine Arts, Budapest, Hungary",
+    "Budapest, Hungary"
+  ],
+  "184": [
+    32.7485687,
+    -97.3649208,
+    "Kimbell Art Museum, Fort Worth, TX, US",
+    "Fort Worth, United States"
+  ],
+  "185": [
+    47.5008902,
+    19.0539887,
+    "St. Stephen's Basilica, Budapest, Hungary",
+    "Budapest, Hungary"
+  ],
+  "186": [
+    51.4460622,
+    -0.0863289,
+    "Dulwich Picture Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "187": [
+    40.1019821,
+    -88.2313482,
+    "Krannert Art Museum (University of Illinois at Urbana\u2013Champaign), Champaign, IL, US",
+    "Champaign, United States"
+  ],
+  "188": [
+    40.3474763,
+    -74.65810780000001,
+    "Princeton University Art Museum (PUAM), Princeton, NJ, US",
+    "Princeton, United States"
+  ],
+  "189": [
+    32.838414,
+    -96.784333,
+    "Meadows Museum, Dallas, TX, US",
+    "Dallas, United States"
+  ],
+  "190": [
+    37.3838897,
+    -5.9954303,
+    "Hospital de la Caridad, Seville, Spain",
+    "Sevilla, Spain"
+  ],
+  "191": [
+    40.4369187,
+    -3.6857512,
+    "Museo L\u00e1zaro Galdiano, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "192": [
+    52.4502776,
+    -1.927818,
+    "Barber Institute of Fine Arts, Birmingham, UK",
+    "United Kingdom"
+  ],
+  "193": [
+    47.4911983,
+    19.0624765,
+    "Hungarian National Museum, Budapest, Hungary",
+    "Budapest, Hungary"
+  ],
+  "194": [
+    31.7585876,
+    -106.4902692,
+    "El Paso Museum of Art, El Paso, TX, US",
+    "El Paso, United States"
+  ],
+  "195": [
+    49.1940216,
+    2.4851984,
+    "Mus\u00e9e Cond\u00e9, Chantilly, France",
+    "Chantilly, France"
+  ],
+  "196": [
+    46.30723700000001,
+    4.832872,
+    "Mus\u00e9e des Ursulines de M\u00e2con, M\u00e2con, France",
+    "M\u00e2con, France"
+  ],
+  "197": [
+    44.837366,
+    -0.5805429999999999,
+    "Mus\u00e9e des Beaux-Arts de Bordeaux, Bordeaux, France",
+    "Bordeaux, France"
+  ],
+  "198": [
+    44.0169238,
+    1.3515167,
+    "Mus\u00e9e Ingres, Montauban, France",
+    "Montauban, France"
+  ],
+  "199": [
+    43.4920757,
+    -1.4721566,
+    "Mus\u00e9e Bonnat, Bayonne, France",
+    "Bayonne, France"
+  ],
+  "200": [
+    43.6036078,
+    2.2417608,
+    "Goya Museum, Castres, France",
+    "Castres, France"
+  ],
+  "201": [
+    47.5112557,
+    8.7316548,
+    "Oskar Reinhart Foundation, Winterthur, Switzerland",
+    "Winterthur, Switzerland"
+  ],
+  "202": [
+    59.32849849999999,
+    18.0781954,
+    "Nationalmuseum, Stockholm, Sweden",
+    "Sweden"
+  ],
+  "203": [
+    -7.231809,
+    -35.874656,
+    "Museu de Arte Assis Chateaubriand (MAC), Campina Grande, Brazil",
+    "Brazil"
+  ],
+  "204": [
+    51.0525288,
+    13.7366636,
+    "Staatliche Kunstsammlungen Dresden, Dresden, Germany",
+    "Dresden, Germany"
+  ],
+  "205": [
+    48.8592613,
+    2.2672282,
+    "Mus\u00e9e Marmottan Monet, Paris, France",
+    "Paris, France"
+  ],
+  "206": [
+    38.7378124,
+    -9.153545500000002,
+    "Calouste Gulbenkian Museum, Lisbon, Portugal",
+    "Lisboa, Portugal"
+  ],
+  "207": [
+    43.6537048,
+    -70.2619625,
+    "Portland Museum of Art (PMA), Portland, ME, US",
+    "Portland, United States"
+  ],
+  "208": [
+    44.8166183,
+    20.4598603,
+    "National Museum of Serbia, Belgrade, Serbia",
+    "Beograd, Serbia"
+  ],
+  "209": [
+    40.7710857,
+    -73.9673861,
+    "Frick Collection, New York City, NY, US",
+    "New York, United States"
+  ],
+  "210": [
+    50.087978,
+    14.4216398,
+    "National Gallery in Prague, Prague, Czech Republic",
+    "Czechia"
+  ],
+  "211": [
+    39.9606433,
+    -75.17280749999999,
+    "Barnes Foundation, Philadelphia, PA, US",
+    "Philadelphia, United States"
+  ],
+  "212": [
+    40.4437052,
+    -79.9489727,
+    "Carnegie Museum of Art, Pittsburgh, PA, US",
+    "Pittsburgh, United States"
+  ],
+  "213": [
+    35.6788414,
+    139.7716322,
+    "Artizon Museum, Tokyo, Japan",
+    "Chuo City, Japan"
+  ],
+  "214": [
+    49.253046100000006,
+    4.0307976,
+    "Mus\u00e9e des Beaux-Arts de Reims, Reims, France",
+    "Reims, France"
+  ],
+  "215": [
+    48.8637884,
+    2.3226724,
+    "Mus\u00e9e de l'Orangerie, Paris, France",
+    "Paris, France"
+  ],
+  "216": [
+    -34.5839894,
+    -58.3930044,
+    "Museo Nacional de Bellas Artes (MNBA), Buenos Aires, Argentina",
+    "Buenos Aires, Argentina"
+  ],
+  "217": [
+    50.1030925,
+    8.6740583,
+    "St\u00e4del, Frankfurt am Main, Germany",
+    "Frankfurt am Main, Germany"
+  ],
+  "218": [
+    51.755428,
+    -1.2600725,
+    "Ashmolean Museum, Oxford, UK",
+    "United Kingdom"
+  ],
+  "219": [
+    38.9219585,
+    -77.0887965,
+    "Kreeger Museum, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "220": [
+    45.0329692,
+    7.665915,
+    "Pinacoteca Giovanni e Marella Agnelli, Turin, Italy",
+    "Torino, Italy"
+  ],
+  "221": [
+    36.8563889,
+    -76.2930556,
+    "Chrysler Museum of Art, Norfolk, VA, US",
+    "Norfolk, United States"
+  ],
+  "222": [
+    52.5208104,
+    13.3983529,
+    "Alte Nationalgalerie, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "223": [
+    41.293594,
+    -82.216549,
+    "Allen Memorial Art Museum (AMAM), Oberlin, OH, US",
+    "Oberlin, United States"
+  ],
+  "224": [
+    53.354177,
+    -6.2646481,
+    "Dublin City Gallery The Hugh Lane, Dublin, Ireland, National Gallery, London, UK",
+    "Ireland"
+  ],
+  "225": [
+    39.3261668,
+    -76.6193437,
+    "Baltimore Museum of Art (BMA), Baltimore, MD, US",
+    "Baltimore, United States"
+  ],
+  "226": [
+    34.0591217,
+    -118.4436674,
+    "Hammer Museum ( University of California), Los Angeles, CA, US",
+    "Los Angeles, United States"
+  ],
+  "227": [
+    37.7844661,
+    -122.5008419,
+    "Legion of Honor, San Francisco, CA, US",
+    "San Francisco, United States"
+  ],
+  "228": [
+    51.5115865,
+    -0.1175592999999999,
+    "Courtauld Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "229": [
+    50.9083894,
+    -1.4064371999999998,
+    "Southampton City Art Gallery, Southampton, UK",
+    "United Kingdom"
+  ],
+  "230": [
+    41.8261811,
+    -71.40805689999999,
+    "Rhode Island School of Design Museum (RISD Museum), Providence, RI, US",
+    "Providence, United States"
+  ],
+  "231": [
+    34.3986962,
+    132.4581124,
+    "Hiroshima Museum of Art, Hiroshima, Japan",
+    "Hiroshima, Japan"
+  ],
+  "232": [
+    45.4727778,
+    9.2,
+    "Galleria d'Arte Moderna, Milan, Italy",
+    "Milano, Italy"
+  ],
+  "233": [
+    51.485682,
+    -3.1768499,
+    "National Museum Cardiff, Cardiff, UK",
+    "United Kingdom"
+  ],
+  "234": [
+    59.22586,
+    39.877369,
+    "Vologda Regional Fine Art Gallery, Vologda, Russia",
+    "Vologda, Russia"
+  ],
+  "235": [
+    57.628289,
+    39.897206,
+    "Yaroslavl Museum of Fine Arts, Yaroslavl, Russia",
+    "Yaroslavl', Russia"
+  ],
+  "236": [
+    54.6269922,
+    39.7513106,
+    "Ryazan State Regional Museum of Fine Arts, Ryazan, Russia",
+    "Ryazan', Russia"
+  ],
+  "237": [
+    57.9061266,
+    59.955099800000006,
+    "State Museum of Fine Arts, Nizhny Tagil, Russia",
+    "Nizhny Tagil, Russia"
+  ],
+  "238": [
+    56.4824826,
+    84.94666169999999,
+    "Tomsk Regional Museum of Fine Arts, Tomsk, Russia",
+    "Tomsk, Russia"
+  ],
+  "239": [
+    59.925152,
+    30.3401667,
+    "Shostakovich Memorial Museum, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "240": [
+    59.93178820000001,
+    30.336172699999995,
+    "St. Petersburg State Museum of Theater and Music, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "241": [
+    53.189528900000006,
+    50.0900419,
+    "Samara Regional Museum of Fine Arts, Samara, Russia",
+    "Samara, Russia"
+  ],
+  "242": [
+    55.748599,
+    37.6619079,
+    "State Literature Museum, Moscow, Russian",
+    "Moskva, Russia"
+  ],
+  "243": [
+    48.1498869,
+    11.5711139,
+    "Neue Pinakothek, Munich, Germany",
+    "M\u00fcnchen, Germany"
+  ],
+  "244": [
+    39.4790039,
+    -0.3711751,
+    "Museu de Belles Arts de Val\u00e8ncia, Valencia, Spain",
+    "Val\u00e8ncia, Spain"
+  ],
+  "245": [
+    40.431756,
+    -3.6870097,
+    "Banco Santande Foundation, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "246": [
+    40.1895301,
+    44.5158589,
+    "Museum of Russian Art, Erevan, Armenia",
+    "Yerevan, Armenia"
+  ],
+  "247": [
+    46.4932961,
+    30.7285666,
+    "Odesa Museum of Fine Arts, Odesa, Ukraine",
+    "Odesa, Ukraine"
+  ],
+  "248": [
+    48.4572222,
+    35.055,
+    "Dnipropetrovsk Museum of Fine Arts, Dnipro, Ukraine",
+    "Dnipro, Ukraine"
+  ],
+  "249": [
+    43.6224143,
+    7.1126352,
+    "Musee National Fernand Leger, Biot, France",
+    "Biot, France"
+  ],
+  "250": [
+    43.5254443,
+    5.452670599999999,
+    "Mus\u00e9e Granet, Aix-en-Provence, France",
+    "Aix-en-Provence, France"
+  ],
+  "251": [
+    45.431549100000005,
+    4.386889399999999,
+    "Mus\u00e9e d'art et d'industrie de Saint-\u00c9tienne, Saint-\u00c9tienne, France",
+    "Saint-\u00c9tienne, France"
+  ],
+  "252": [
+    50.6304812,
+    3.0627928,
+    "Palais des Beaux-Arts de Lille, Lille, France",
+    "Lille, France"
+  ],
+  "253": [
+    49.5179472,
+    3.1547341,
+    "Ch\u00e2teau de Bl\u00e9rancourt, Bl\u00e9rancourt, France",
+    "Bl\u00e9rancourt, France"
+  ],
+  "254": [
+    51.0517828,
+    13.7443736,
+    "Galerie Neue Meister, Dresden, Germany",
+    "Dresden, Germany"
+  ],
+  "255": [
+    51.2349695,
+    6.7729576,
+    "Museum Kunstpalast, D\u00fcsseldorf, Germany",
+    "D\u00fcsseldorf, Germany"
+  ],
+  "256": [
+    52.5069946,
+    13.367604,
+    "Neue Nationalgalerie, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "257": [
+    45.0649426,
+    7.669213799999999,
+    "Gallery of Modern and Contemporary Art (GAM), Turin, Italy",
+    "Torino, Italy"
+  ],
+  "258": [
+    48.2998157,
+    4.0814258,
+    "Musee d'Art Moderne de Troyes, Troyes, France",
+    "Troyes, France"
+  ],
+  "259": [
+    38.64710530000001,
+    -90.3025889,
+    "Washington University Gallery of Art (WUSTL), St. Louis, MO, US",
+    "St. Louis, United States"
+  ],
+  "260": [
+    42.3381442,
+    -71.0990577,
+    "Isabella Stewart Gardner Museum (Fenway Court), Boston, MA, US",
+    "Boston, United States"
+  ],
+  "261": [
+    45.194928,
+    5.7323129,
+    "Mus\u00e9e de Grenoble, Grenoble, France",
+    "Grenoble, France"
+  ],
+  "262": [
+    32.732158,
+    -117.15043,
+    "San Diego Museum of Art, San Diego, CA, US",
+    "San Diego, United States"
+  ],
+  "263": [
+    50.1060926,
+    3.5410683,
+    "Matisse Museum (Le Cateau), Le Cateau-Cambresis, France",
+    "Le Cateau-Cambr\u00e9sis, France"
+  ],
+  "264": [
+    47.1005593,
+    6.8295799,
+    "Mus\u00e9e des Beaux-Arts de La Chaux-de-Fonds, La Chaux-de-Fonds, Switzerland",
+    "La Chaux-de-Fonds, Switzerland"
+  ],
+  "265": [
+    48.6934869,
+    6.1824013,
+    "Mus\u00e9e des Beaux-Arts de Nancy, Nancy, France",
+    "Nancy, France"
+  ],
+  "266": [
+    43.7193629,
+    7.2762108,
+    "Mus\u00e9e Matisse, Nice, France",
+    "Nice, France"
+  ],
+  "267": [
+    43.7275314,
+    7.1128063,
+    "Chapelle du Rosaire de Vence (Matisse Chapel), Vence, France",
+    "Vence, France"
+  ],
+  "268": [
+    43.7050972,
+    -72.2887294,
+    "Baker-Berry Library (Dartmouth College), Hanover, NH, US",
+    "Hanover, United States"
+  ],
+  "269": [
+    19.4352,
+    -99.1412,
+    "Palacio de Bellas Artes, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "270": [
+    26.356568,
+    -80.08574999999999,
+    "Boca Raton Museum of Art, Boca Raton, FL, US",
+    "Boca Raton, United States"
+  ],
+  "271": [
+    48.8568556,
+    2.333782,
+    "\u00c9cole nationale sup\u00e9rieure des Beaux-Arts (ENSBA), Paris, France",
+    "Paris, France"
+  ],
+  "272": [
+    50.6274431,
+    5.5775842,
+    "Mus\u00e9e des Beaux-Arts de Li\u00e8ge (BAL), Li\u00e8ge, Belgium",
+    "Li\u00e8ge, Belgium"
+  ],
+  "273": [
+    49.4447915,
+    1.0945961,
+    "Mus\u00e9e des Beaux-Arts de Rouen, Rouen, France",
+    "Rouen, France"
+  ],
+  "274": [
+    48.8557933,
+    2.3125934,
+    "Mus\u00e9e de l'Arm\u00e9e, Paris, France",
+    "Paris, France"
+  ],
+  "275": [
+    47.4690286,
+    -0.5544074999999999,
+    "Mus\u00e9e des Beaux-Arts d'Angers, Angers, France",
+    "Angers, France"
+  ],
+  "276": [
+    39.296425,
+    -76.61649849999999,
+    "Walters Art Museum, Baltimore, MD, US",
+    "Baltimore, United States"
+  ],
+  "277": [
+    48.8660479,
+    2.3145896,
+    "Petit Palais, Paris, France",
+    "Paris, France"
+  ],
+  "278": [
+    46.4614899,
+    6.8452851,
+    "Mus\u00e9e Jenisch, Vevey, Switzerland",
+    "Vevey, Switzerland"
+  ],
+  "279": [
+    39.102088,
+    -84.5026948,
+    "Taft Museum of Art, Cincinnati, OH, US",
+    "Cincinnati, United States"
+  ],
+  "280": [
+    44.0154048,
+    1.3554497,
+    "Montauban Cathedral, Montauban, France",
+    "Montauban, France"
+  ],
+  "281": [
+    43.2947834,
+    -0.3755744,
+    "Ch\u00e2teau de Pau, Pau, France",
+    "Pau, France"
+  ],
+  "282": [
+    46.9450248,
+    4.299121599999999,
+    "Cath\u00e9drale Saint-Lazare d'Autun, Autun, France",
+    "Autun, France"
+  ],
+  "283": [
+    48.8599614,
+    2.3265614,
+    "Louvre, Paris, France, Mus\u00e9e d'Orsay, Paris, France",
+    "Paris, France"
+  ],
+  "284": [
+    59.911506,
+    10.7292472,
+    "National Museum of Art, Architecture and Design,  Oslo, Norway",
+    "Norway"
+  ],
+  "285": [
+    69.64827799999999,
+    18.959453,
+    "Nordnorsk Kunstmuseum, Tromso, Norway",
+    "Norway"
+  ],
+  "286": [
+    52.5090131,
+    13.3660136,
+    "Gem\u00e4ldegalerie, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "287": [
+    52.3580757,
+    4.8812053,
+    "Van Gogh Museum, Amsterdam, Netherlands",
+    "Amsterdam, Netherlands"
+  ],
+  "288": [
+    42.2731177,
+    -71.8020095,
+    "Worcester Art Museum (WAM), Worcester, MA, UK",
+    "Worcester, United States"
+  ],
+  "289": [
+    48.2046992,
+    16.3681824,
+    "Albertina, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "290": [
+    48.581041,
+    7.7524972,
+    "Mus\u00e9e des Beaux-Arts de Strasbourg, Strasbourg, France",
+    "Strasbourg, France"
+  ],
+  "291": [
+    42.318502,
+    -72.6363775,
+    "Smith College Museum of Art (SCMA), Northampton, MA, US",
+    "Northampton, United States"
+  ],
+  "292": [
+    42.6490098,
+    -71.1334767,
+    "Addison Gallery of American Art (Phillips Academy), Andover, MA, US",
+    "Andover, United States"
+  ],
+  "293": [
+    29.4856801,
+    -98.4570958,
+    "McNay Art Museum, San Antonio, TX, US",
+    "San Antonio, United States"
+  ],
+  "294": [
+    40.199855,
+    -85.4103835,
+    "Ball State University Museum of Art, Muncie, IN, US",
+    "Muncie, United States"
+  ],
+  "295": [
+    41.3078875,
+    -72.93053069999999,
+    "Yale Centre For British Art (Yale University), New Haven, CT, US",
+    "New Haven, United States"
+  ],
+  "296": [
+    51.4998051,
+    -0.1424367,
+    "Royal Collection (Buckingham Palace), London, UK",
+    "United Kingdom"
+  ],
+  "297": [
+    54.9750139,
+    -1.6093722,
+    "Laing Art Gallery, Newcastle upon Tyne, UK",
+    "United Kingdom"
+  ],
+  "298": [
+    48.1466825,
+    11.5639972,
+    "Lenbachhaus, Munich, Germany",
+    "M\u00fcnchen, Germany"
+  ],
+  "299": [
+    54.32298,
+    -2.7439876,
+    "Abbot Hall Art Gallery, Kendal, UK",
+    "United Kingdom"
+  ],
+  "300": [
+    10.5013898,
+    -66.90228929999999,
+    "National Art Gallery (GAN), Caracas, Venezuela",
+    "Caracas, Venezuela"
+  ],
+  "301": [
+    37.0576672,
+    15.2945216,
+    "Galleria Regionale di Palazzo Bellomo, Siracusa, Italy",
+    "Siracusa, Italy"
+  ],
+  "302": [
+    19.5263827,
+    -96.9244206,
+    "Pinacoteca Diego Rivera, Veracruz, Mexico",
+    "Xalapa-Enr\u00edquez, Mexico"
+  ],
+  "303": [
+    41.0843583,
+    -81.5154611,
+    "Akron Art Museum, Akron, OH, US",
+    "Akron, United States"
+  ],
+  "304": [
+    51.5094426,
+    -0.1398686,
+    "Royal Academy of Arts (RA), London, UK",
+    "United Kingdom"
+  ],
+  "305": [
+    52.5157484,
+    13.3795177,
+    "Academy of Arts of Berlin, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "306": [
+    47.3902536,
+    8.0448377,
+    "Aargauer Kunsthaus, Aargau, Switzerland",
+    "Aarau, Switzerland"
+  ],
+  "307": [
+    49.2829607,
+    -123.1204715,
+    "Vancouver Art Gallery (VAG),  Vancouver, Canada",
+    "Vancouver, Canada"
+  ],
+  "308": [
+    45.704236,
+    9.675819,
+    "Accademia Carrara, Bergamo, Italy",
+    "Bergamo, Italy"
+  ],
+  "309": [
+    45.0672222,
+    7.689444399999999,
+    "Accademia Albertina, Turin, Italy",
+    "Torino, Italy"
+  ],
+  "310": [
+    31.772123800000003,
+    35.2040896,
+    "Israel Museum, Jerusalem, Israel",
+    "Jerusalem, Israel"
+  ],
+  "311": [
+    -43.5307499,
+    172.63103569999998,
+    "Christchurch Art Gallery Te Puna o Waiwhet\u016b, Christchurch, New Zealand",
+    "Christchurch, New Zealand"
+  ],
+  "312": [
+    -41.2904563,
+    174.7820894,
+    "Museum of New Zealand Te Papa Tongarewa, Wellington, New Zealand",
+    "Wellington, New Zealand"
+  ],
+  "313": [
+    -36.851354,
+    174.766237,
+    "Auckland Art Gallery, Auckland, New Zealand",
+    "Auckland, New Zealand"
+  ],
+  "314": [
+    53.74334330000001,
+    -0.3392961,
+    "Ferens Art Gallery, Kingston upon Hull, UK",
+    "Kingston upon Hull, United Kingdom"
+  ],
+  "315": [
+    53.7999507,
+    -1.5482525,
+    "Leeds Art Gallery, Leeds, UK",
+    "United Kingdom"
+  ],
+  "316": [
+    49.8430269,
+    24.0279416,
+    "Lviv National Museum, Lviv, Ukraine",
+    "L'viv, Ukraine"
+  ],
+  "317": [
+    52.2830056,
+    104.2810532,
+    "Irkutsk Regional Museum of Fine Arts (Sukachev Museum), Irkutsk, Russia",
+    "Irkutsk, Russia"
+  ],
+  "318": [
+    55.7561422,
+    37.603916,
+    "Moscow Conservatory, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "319": [
+    60.170156600000006,
+    24.9441114,
+    "Ateneum, Helsinki, Finland",
+    "Helsinki, Finland"
+  ],
+  "320": [
+    55.731849,
+    37.637901,
+    "Bakhrushin Theater Museum, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "321": [
+    50.9060673,
+    34.8000151,
+    "Sumy Museum of Fine Arts, Sumy, Ukraine",
+    "Sumy, Ukraine"
+  ],
+  "322": [
+    60.1702494,
+    24.9440063,
+    "Finnish National Gallery, Helsinki, Finland",
+    "Helsinki, Finland"
+  ],
+  "323": [
+    48.472973,
+    135.052388,
+    "Far East Museum of Fine Arts, Khabarovsk, Russia",
+    "Khabarovsk, Russia"
+  ],
+  "324": [
+    58.016294,
+    56.2346868,
+    "Perm State Art Gallery, Perm, Russia",
+    "Perm, Russia"
+  ],
+  "325": [
+    56.8624838,
+    35.8999565,
+    "Tver Regional Art Gallery, Tver, Russia",
+    "Tver, Russia"
+  ],
+  "326": [
+    49.999155,
+    36.238584,
+    "Kharkiv Museum of Fine Arts, Kharkiv, Ukraine",
+    "Kharkiv, Ukraine"
+  ],
+  "327": [
+    55.1953208,
+    30.2032014,
+    "Vitebsk Museum of Fine Arts, Vitebsk, Belarus",
+    "Vitebsk, Belarus"
+  ],
+  "328": [
+    58.5205538,
+    31.274906100000003,
+    "Novgorod State Museum Preserve, Novgorod, Russia",
+    "Veliky Novgorod, Russia"
+  ],
+  "329": [
+    57.15391150000001,
+    65.549858,
+    "Tyumen Regional Museum of Fine Arts, Tyumen, Russia",
+    "Tyumen, Russia"
+  ],
+  "330": [
+    43.1142762,
+    131.88197069999998,
+    "Primorsk State Art Gallery, Vladivostok, Russia",
+    "Vladivostok, Russia"
+  ],
+  "331": [
+    54.3154078,
+    48.4057488,
+    "Ulyanovsk Regional Museum of Fine Arts, Ulyanovsk, Russia",
+    "Ulyanovsk, Russia"
+  ],
+  "332": [
+    54.177663,
+    37.595002,
+    "Tula Regional Museum of Fine Arts, Tula, Russia",
+    "Tula, Russia"
+  ],
+  "333": [
+    46.5179789,
+    6.6254456,
+    "Mus\u00e9e Cantonal des Beaux-Arts, Lausanne, Switzerland",
+    "Lausanne, Switzerland"
+  ],
+  "334": [
+    37.5560356,
+    -77.4747907,
+    "Virginia Museum of Fine Arts, Richmond, VA, US",
+    "Richmond, United States"
+  ],
+  "335": [
+    47.5015102,
+    8.7305225,
+    "Kunstmuseum Winterthur, Winterthur, Switzerland",
+    "Winterthur, Switzerland"
+  ],
+  "336": [
+    46.199284,
+    6.1515081,
+    "Mus\u00e9e d'Art et d'Histoire, Geneva, Switzerland",
+    "Gen\u00e8ve, Switzerland"
+  ],
+  "337": [
+    47.996224,
+    -4.102296,
+    "Musee des Beaux Arts de Quimper, Quimper, France",
+    "Quimper, France"
+  ],
+  "338": [
+    46.1992454,
+    6.137657400000001,
+    "Mus\u00e9e d'Art Moderne et Contemporain (MAMCO), Geneva, Switzerland",
+    "Gen\u00e8ve, Switzerland"
+  ],
+  "339": [
+    48.579498,
+    7.735972999999999,
+    "Strasbourg Museum of Modern and Contemporary Art, Strasbourg, France",
+    "Strasbourg, France"
+  ],
+  "340": [
+    51.7552193,
+    6.236784999999999,
+    "Moyland Castle, Bedburg-Hau, Germany",
+    "Bedburg-Hau, Germany"
+  ],
+  "341": [
+    44.9681442,
+    -93.2886494,
+    "Walker Art Center, Minneapolis, MN, US",
+    "Minneapolis, United States"
+  ],
+  "342": [
+    55.7955151,
+    49.1094148,
+    "Tatarstan Museum of Fine Arts, Kazan, Russia",
+    "Kazan, Russia"
+  ],
+  "343": [
+    47.2257739,
+    39.7157833,
+    "Rostov Regional Museum of Fine Arts, Rostov-on-Don, Russia",
+    "Rostov, Russia"
+  ],
+  "344": [
+    34.1463464,
+    -118.1592625,
+    "Norton Simon Museum, Pasadena, CA, US",
+    "Pasadena, United States"
+  ],
+  "345": [
+    38.914148,
+    -77.0640129,
+    "Dumbarton Oaks Research Library and Collection, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "346": [
+    53.4100683,
+    -2.9796664,
+    "Walker Art Gallery, Liverpool, UK",
+    "United Kingdom"
+  ],
+  "347": [
+    46.9866083,
+    3.1548825,
+    "Mus\u00e9e de la Fa\u00efence et des Beaux-Arts, Nevers, France",
+    "Nevers, France"
+  ],
+  "348": [
+    43.310221,
+    -73.6341,
+    "Hyde Collection Art Museum, Glens Falls, NY, US",
+    "Glens Falls, United States"
+  ],
+  "349": [
+    50.602666,
+    3.3857762,
+    "Mus\u00e9e des Beaux-Arts Tournai, Tournai, Belgium",
+    "Tournai, Belgium"
+  ],
+  "350": [
+    53.3422356,
+    -6.2672762,
+    "Chester Beatty Library, Dublin, Ireland",
+    "Ireland"
+  ],
+  "351": [
+    51.5115865,
+    -0.1175592999999999,
+    "Courtauld Institute of Art, London, UK, Courtauld Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "352": [
+    48.8570669,
+    2.3628579,
+    "Carnavalet Museum, Paris, France",
+    "Paris, France"
+  ],
+  "353": [
+    43.2977518,
+    -0.3644663999999999,
+    "Musee des Beaux-Arts de Pau, Pau, France",
+    "Pau, France"
+  ],
+  "354": [
+    47.9026567,
+    1.909731,
+    "Mus\u00e9e des Beaux-Arts d'Orl\u00e9ans, Orleans, France",
+    "Orl\u00e9ans, France"
+  ],
+  "355": [
+    41.3684399,
+    2.15357,
+    "Museo del Prado, Madrid, Spain, Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain",
+    "Barcelona, Spain"
+  ],
+  "356": [
+    51.5034733,
+    -0.1516714,
+    "Apsley House, (Wellington Museum), London, UK",
+    "United Kingdom"
+  ],
+  "357": [
+    40.833183,
+    -73.946091,
+    "Hispanic Society of America, New York City, NY, US",
+    "New York, United States"
+  ],
+  "358": [
+    40.592573,
+    -4.100217,
+    "El Escorial, Madrid, Spain",
+    "Spain"
+  ],
+  "359": [
+    41.8929428,
+    12.4825577,
+    "Capitoline Museums, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "360": [
+    48.2038016,
+    16.3617874,
+    "Kunsthistorisches Museum, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "361": [
+    38.085748,
+    -0.9462615,
+    "Orihuela Cathedral, Orihuela, Spain",
+    "Orihuela, Spain"
+  ],
+  "362": [
+    40.417955,
+    -3.714311999999999,
+    "Palacio Real de Madrid, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "363": [
+    51.517323000000005,
+    -0.1530885,
+    "Wallace Collection, London, UK",
+    "United Kingdom"
+  ],
+  "364": [
+    50.8109443,
+    -2.0316768000000005,
+    "Kingston Lacy, Wimborne Minster, UK",
+    "United Kingdom"
+  ],
+  "365": [
+    41.8979782,
+    12.4815742,
+    "Galleria Doria Pamphilj, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "366": [
+    59.939831700000006,
+    30.3145597,
+    "Hermitage Museum, Saint Petersburg, Russia, Mus\u00e9e Cond\u00e9, Chantilly, France",
+    "Sankt-Peterburg, Russia"
+  ],
+  "367": [
+    39.7662644,
+    -84.2017588,
+    "Dayton Art Institute (DAI), Dayton, OH, US",
+    "Dayton, United States"
+  ],
+  "368": [
+    35.6849825,
+    -121.1699716,
+    "Hearst Castle, San Simeon, CA, US",
+    "San Simeon, United States"
+  ],
+  "369": [
+    33.4670863,
+    -112.0727721,
+    "Phoenix Art Museum,  Phoenix, AZ, US",
+    "Phoenix, United States"
+  ],
+  "370": [
+    52.2420898,
+    21.0022819,
+    "Museum of John Paul II Collection, Warsaw, Poland",
+    "Warszawa, Poland"
+  ],
+  "371": [
+    40.7251128,
+    -74.0048784,
+    "Dahesh Museum of Art, New York City, NY, US",
+    "New York, United States"
+  ],
+  "372": [
+    41.9168866,
+    12.4819584,
+    "Galleria Nazionale d'Arte Moderna e Contemporanea (GNAM), Rome, Italy",
+    "Roma, Italy"
+  ],
+  "373": [
+    48.191475100000005,
+    16.3809322,
+    "Belvedere, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "374": [
+    42.2568,
+    -72.57257539999999,
+    "Mount Holyoke College Art Museum, South Hadley, MA, US",
+    "South Hadley, United States"
+  ],
+  "375": [
+    35.809885699999995,
+    -78.7025784,
+    "North Carolina Museum of Art (NCMA), Raleigh, NC, US",
+    "Raleigh, United States"
+  ],
+  "376": [
+    51.5194133,
+    -0.1269566,
+    "British Museum, London, UK",
+    "United Kingdom"
+  ],
+  "377": [
+    45.4634791,
+    9.1857881,
+    "Biblioteca Ambrosiana, Milan, Italy",
+    "Milano, Italy"
+  ],
+  "378": [
+    41.9064878,
+    12.4536413,
+    "Vatican Museums, Vatican",
+    "Vatican City, Vatican City"
+  ],
+  "379": [
+    48.8677114,
+    2.338096,
+    "Bibliotheque de l'Institut de France, Paris, France",
+    "Paris, France"
+  ],
+  "380": [
+    41.9015456,
+    12.4833165,
+    "National Institute for the Graphic Design, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "381": [
+    45.0728337,
+    7.686331699999999,
+    "Palazzo Reale di Torino, Turin, Italy",
+    "Torino, Italy"
+  ],
+  "382": [
+    48.8572862,
+    2.3371276,
+    "Insritut de France, Paris, France",
+    "Paris, France"
+  ],
+  "383": [
+    43.7768145,
+    11.2586424,
+    "Galleria dell'Accademia di Firenze, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "384": [
+    50.0646918,
+    19.9400993,
+    "Czartoryski Museum, Krak\u00f3w, Poland",
+    "Krak\u00f3w, Poland"
+  ],
+  "385": [
+    45.4310784,
+    12.3281394,
+    "Galleria dell'Accademia, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "386": [
+    40.42378790000001,
+    -3.6902451999999992,
+    "Biblioteca Nacional de Espa\u00f1a, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "387": [
+    45.465963,
+    9.1709621,
+    "Church Santa Maria delle Grazie, Milan, Italy",
+    "Milano, Italy"
+  ],
+  "388": [
+    35.912593,
+    -79.054867,
+    "Ackland Art Museum (University of North Carolina), Chapel Hill, NC, US",
+    "Chapel Hill, United States"
+  ],
+  "389": [
+    45.4672686,
+    9.1893745,
+    "La Scala Theatre Museum, Milan, Italy",
+    "Milano, Italy"
+  ],
+  "390": [
+    51.7498733,
+    -1.2558446,
+    "Christ Church, Oxford, UK",
+    "United Kingdom"
+  ],
+  "391": [
+    53.2275433,
+    -1.6114274,
+    "Chatsworth House, Derbyshire, UK",
+    "United Kingdom"
+  ],
+  "392": [
+    44.8047762,
+    10.3259478,
+    "Parma National Gallery, Parma, Italy",
+    "Parma, Italy"
+  ],
+  "393": [
+    45.8603072,
+    8.7925936,
+    "Museo Baroffio e del Sacro Monte, Varese, Italy",
+    "Varese, Italy"
+  ],
+  "394": [
+    49.0482773,
+    2.1000604,
+    "Musee Camille Pissarro, Paris, France",
+    "Pontoise, France"
+  ],
+  "395": [
+    52.060562,
+    1.151005,
+    "Ipswich Museum, Ipswich, UK",
+    "United Kingdom"
+  ],
+  "396": [
+    39.7371878,
+    -104.9893451,
+    "Denver Art Museum (DAM), Denver, CO, US",
+    "Denver, United States"
+  ],
+  "397": [
+    49.4826068,
+    8.4751823,
+    "Kunsthalle Mannheim, Mannheim, Germany",
+    "Mannheim, Germany"
+  ],
+  "398": [
+    -26.1970946,
+    28.047111,
+    "Johannesburg Art Gallery, Johannesburg, South Africa",
+    "Johannesburg, South Africa"
+  ],
+  "399": [
+    33.7900632,
+    -84.38555199999999,
+    "High Museum of Art, Atlanta, GA, US",
+    "Atlanta, United States"
+  ],
+  "400": [
+    47.4278441,
+    9.3815987,
+    "Kunstmuseum St. Gallen, St. Gallen, Switzerland",
+    "St. Gallen, Switzerland"
+  ],
+  "401": [
+    38.2183706,
+    -85.7609428,
+    "Speed Art Museum, Louisville, KY, US",
+    "Louisville, United States"
+  ],
+  "402": [
+    39.0449506,
+    -94.5809284,
+    "Nelson-Atkins Museum of Art, Kansas City, MO, US",
+    "Kansas City, United States"
+  ],
+  "403": [
+    50.3744374,
+    3.0756493,
+    "Mus\u00e9e de la Chartreuse de Douai, Douai, France",
+    "Douai, France"
+  ],
+  "404": [
+    35.8697281,
+    139.64317340000002,
+    "Museum of Modern Art, Saitama, Japan",
+    "Saitama, Japan"
+  ],
+  "405": [
+    40.7492258,
+    -73.9813971,
+    "Morgan Library and Museum (Pierpont Morgan Library), New York City, NY, US",
+    "New York, United States"
+  ],
+  "406": [
+    -34.9206433,
+    138.6039418,
+    "Art Gallery of South Australia (AGSA), Adelaide, Australia",
+    "Adelaide, Australia"
+  ],
+  "407": [
+    34.596100799999995,
+    133.7706557,
+    "Ohara Museum of Art, Kurashiki, Japan",
+    "Kurashiki, Japan"
+  ],
+  "408": [
+    35.6400385,
+    139.7219841,
+    "Matsuoka Museum of Art, Tokyo, Japan",
+    "Minato City, Japan"
+  ],
+  "409": [
+    35.686377799999995,
+    139.3291361,
+    "Tokyo Fuji Art Museum, Tokyo, Japan",
+    "Hachioji, Japan"
+  ],
+  "410": [
+    55.7668196,
+    12.5625076,
+    "Ordrupgaard, Copenhagen, Denmark",
+    "Charlottenlund, Denmark"
+  ],
+  "411": [
+    55.8730209,
+    -4.2889506,
+    "Hunterian Museum and Art Gallery, Glasgow, UK",
+    "United Kingdom"
+  ],
+  "412": [
+    52.480111,
+    -1.903462,
+    "Birmingham Museum and Art Gallery, Birmingham, UK",
+    "United Kingdom"
+  ],
+  "413": [
+    53.4602679,
+    -2.2293483,
+    "Whitworth Art Gallery (University of Manchester), Manchester, UK",
+    "United Kingdom"
+  ],
+  "414": [
+    49.4849943,
+    0.102668,
+    "Mus\u00e9e Malraux (MuMa), Le Havre, France",
+    "Le Havre, France"
+  ],
+  "415": [
+    4.596698,
+    -74.0733503,
+    "Museo Botero, Bogot\u00e1, Colombia",
+    "Bogot\u00e1, Colombia"
+  ],
+  "416": [
+    55.67298,
+    12.572543,
+    "Ny Carlsberg Glyptotek, Copenhagen, Denmark",
+    "K\u00f8benhavn, Denmark"
+  ],
+  "417": [
+    49.9243623,
+    1.0704652,
+    "Ch\u00e2teau de Dieppe, Dieppe, France",
+    "Dieppe, France"
+  ],
+  "418": [
+    45.692457,
+    5.915878999999999,
+    "Faure Museum, Aix-les-Bains, France",
+    "Aix-les-Bains, France"
+  ],
+  "419": [
+    51.1929067,
+    6.4334341,
+    "Abteiberg Museum, Moenchengladbach, Germany",
+    "M\u00f6nchengladbach, Germany"
+  ],
+  "420": [
+    32.7491803,
+    -97.3633072,
+    "Modern Art Museum of Fort Worth, TX, US",
+    "Fort Worth, United States"
+  ],
+  "421": [
+    34.0532482,
+    -118.2505517,
+    "Museum of Contemporary Art (MOCA), Los Angeles, CA, US",
+    "Los Angeles, United States"
+  ],
+  "422": [
+    42.3656832,
+    -71.26249949999999,
+    "Rose Art Museum (Brandeis University), Waltham, MA, US",
+    "Waltham, United States"
+  ],
+  "423": [
+    38.9596541,
+    -95.2445845,
+    "Spencer Museum of Art (University of Kansas), Lawrence, KS, US",
+    "Lawrence, United States"
+  ],
+  "424": [
+    52.5283411,
+    13.372137,
+    "Hamburger Bahnhof (Museum f\u00fcr Gegenwart), Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "425": [
+    47.1395009,
+    9.5221913,
+    "Kunstmuseum Liechtenstein, Vaduz, Liechtenstein",
+    "Vaduz, Liechtenstein"
+  ],
+  "426": [
+    40.8551541,
+    14.2584685,
+    "Museo d'Arte Contemporanea (MADRE), Naples, Italy",
+    "Napoli, Italy"
+  ],
+  "427": [
+    45.8939992,
+    11.044689,
+    "Museum of Modern and Contemporary Art of Trento and Rovereto (MART), Rovereto, Italy",
+    "Italy"
+  ],
+  "428": [
+    50.1118438,
+    8.684819599999999,
+    "Museum f\u00fcr Moderne Kunst (MMK), Frankfurt, Germany",
+    "Frankfurt am Main, Germany"
+  ],
+  "429": [
+    44.9731104,
+    -93.2369351,
+    "Weisman Art Museum (University of Minnesota), Minneapolis, MN, US",
+    "Minneapolis, United States"
+  ],
+  "430": [
+    48.3973937,
+    9.9938437,
+    "Kunsthalle Weishaupt, Ulm, Germany",
+    "Ulm, Germany"
+  ],
+  "431": [
+    48.2037823,
+    16.3578331,
+    "Museum Moderner Kunst Stiftung Ludwig Wien (MUMOK), Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "432": [
+    60.1715911,
+    24.9368643,
+    "Kiasma, Helsinki, Finland",
+    "Helsinki, Finland"
+  ],
+  "433": [
+    38.6958741,
+    -9.2090914,
+    "Berardo Collection Museum, Lisbon, Portugal",
+    "Lisboa, Portugal"
+  ],
+  "434": [
+    32.844506599999995,
+    -117.2781915,
+    "Museum of Contemporary Art San Diego (MCASD), San Diego, CA, US",
+    "San Diego, United States"
+  ],
+  "435": [
+    49.2584568,
+    9.6813166,
+    "Museum Wuerth, Kuenzelsau, Germany",
+    "K\u00fcnzelsau, Germany"
+  ],
+  "436": [
+    50.7811134,
+    6.1017432,
+    "Ludwig Forum f\u00fcr Internationale Kunst, Aachen, Germany",
+    "Aachen, Germany"
+  ],
+  "437": [
+    39.7656614,
+    -75.5656731,
+    "Delaware Art Museum, Wilmington, DE, US",
+    "Wilmington, United States"
+  ],
+  "438": [
+    52.0899258,
+    4.280711999999999,
+    "Gemeentemuseum den Haag, Hague, Netherlands",
+    "Den Haag, Netherlands"
+  ],
+  "439": [
+    48.8592613,
+    2.2672282,
+    "Mus\u00e9e d'Orsay, Paris, France, Mus\u00e9e Marmottan Monet, Paris, France",
+    "Paris, France"
+  ],
+  "440": [
+    53.354177,
+    -6.2646481,
+    "Dublin City Gallery The Hugh Lane, Dublin, Ireland",
+    "Ireland"
+  ],
+  "441": [
+    41.7220476,
+    -72.82050319999999,
+    "Hill-Stead Museum, Farmington, CT, US",
+    "Farmington, United States"
+  ],
+  "442": [
+    62.0277597,
+    24.5744525,
+    "G\u00f6sta Serlachius Fine Arts Foundation, M\u00e4ntt\u00e4, Finland",
+    "M\u00e4ntt\u00e4, Finland"
+  ],
+  "443": [
+    44.3730401,
+    -73.2317935,
+    "Shelburne Museum, Shelburne, VT, US",
+    "Shelburne, United States"
+  ],
+  "444": [
+    53.379502,
+    -1.466765,
+    "Sheffield Galleries and Museums, Sheffield, UK",
+    "United Kingdom"
+  ],
+  "445": [
+    51.5155932,
+    -0.0917178999999999,
+    "Guildhall Art Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "446": [
+    41.8527221,
+    -87.6158294,
+    "McCormick Place, Chicago, IL, US",
+    "Chicago, United States"
+  ],
+  "447": [
+    19.265989,
+    -99.1261179,
+    "Dolores Olmedo Collection, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "448": [
+    34.064282899999995,
+    -118.4423562,
+    "School of Medicine San Francisco (University of California), Los Angeles, CA, US",
+    "Los Angeles, United States"
+  ],
+  "449": [
+    37.7938547,
+    -122.4051207,
+    "Hoover Gallery, San Francisco, CA, US",
+    "San Francisco, United States"
+  ],
+  "450": [
+    48.8505234,
+    2.3854291,
+    "Michel Petitjean Collection, Paris, France",
+    "Paris, France"
+  ],
+  "451": [
+    19.4455515,
+    -99.2096312,
+    "Banco de M\u00e9xico Collection, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "452": [
+    35.1639264,
+    136.9010711,
+    "Nagoya City Art Museum, Nagoya, Japan",
+    "Nagoya, Japan"
+  ],
+  "453": [
+    43.0744554,
+    -89.3892675,
+    "Madison Museum of Contemporary Art (MMoCA), Madison, WI, US",
+    "Madison, United States"
+  ],
+  "454": [
+    30.2843324,
+    -97.741221,
+    "Harry Ransom Center (University of Texas), Austin, TX, US",
+    "Austin, United States"
+  ],
+  "455": [
+    -34.5769032,
+    -58.4033959,
+    "Museo de Arte Latinoamericano de Buenos Aires (MALBA), Buenos Aires, Argentina",
+    "Buenos Aires, Argentina"
+  ],
+  "456": [
+    19.3551806,
+    -99.1624636,
+    "Frida Kahlo Museum, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "457": [
+    19.3469017,
+    -99.0996649,
+    "Maria Felix Collection, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "458": [
+    19.4274497,
+    -99.2117054,
+    "Balbina Azc\u00e1rraga Collection, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "459": [
+    19.4344609,
+    -99.1306827,
+    "Samuel Fastlicht Collection, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "460": [
+    53.7591031,
+    -2.6982448,
+    "Harris Museum, Preston, UK",
+    "United Kingdom"
+  ],
+  "461": [
+    59.9061331,
+    10.7557042,
+    "Munch Museum, Oslo, Norway",
+    "Norway"
+  ],
+  "462": [
+    60.3894871,
+    5.3275488,
+    "Rasmus Meyer Collection, Bergen, Norway",
+    "Norway"
+  ],
+  "463": [
+    60.39020689999999,
+    5.3226103,
+    "Bergen Billedgalleri, Bergen, Norway",
+    "Norway"
+  ],
+  "464": [
+    53.870389,
+    10.68962,
+    "Behnhaus, L\u00fcbeck, Germany",
+    "L\u00fcbeck, Germany"
+  ],
+  "465": [
+    59.32249,
+    18.148409,
+    "Thielska Galleriet, Stockholm, Sweden",
+    "Sweden"
+  ],
+  "466": [
+    60.39001219999999,
+    5.3251037,
+    "Rolf Stenersen Collection, Bergen, Norway",
+    "Norway"
+  ],
+  "467": [
+    59.9404992,
+    10.7215296,
+    "University of Oslo, Oslo, Norway",
+    "Norway"
+  ],
+  "468": [
+    41.260395,
+    -95.9460525,
+    "Joslyn Art Museum,Omaha, NE, US",
+    "Omaha, United States"
+  ],
+  "469": [
+    43.022435,
+    -83.67790400000001,
+    "Flint Institute of Arts, Flint, MI, US",
+    "Flint, United States"
+  ],
+  "470": [
+    37.6949197,
+    -97.3559687,
+    "Wichita Art Museum, Wichita, KS, US",
+    "Wichita, United States"
+  ],
+  "471": [
+    41.8085399,
+    -72.2528032,
+    "William Benton Museum of Art ( University of Connecticut), Storrs, CT, US",
+    "Mansfield, United States"
+  ],
+  "472": [
+    35.0558936,
+    -85.306405,
+    "Hunter Museum of American Art, Chattanooga, TN, US",
+    "Chattanooga, United States"
+  ],
+  "473": [
+    39.9555986,
+    -75.1631457,
+    "Pennsylvania Academy of the Fine Arts, Philadelphia, PA, US",
+    "Philadelphia, United States"
+  ],
+  "474": [
+    48.8672227,
+    2.3389067,
+    "Biblioth\u00e8que nationale de France (BnF), Paris, France",
+    "Paris, France"
+  ],
+  "475": [
+    38.888684,
+    -77.004719,
+    "Library of Congress (LOC), Washington, DC, US",
+    "Washington, United States"
+  ],
+  "476": [
+    36.3818542,
+    -94.2026525,
+    "Crystal Bridges Museum of American Art, Bentonville, AR, US",
+    "Bentonville, United States"
+  ],
+  "477": [
+    34.1290452,
+    -118.1145242,
+    "Huntington Library, San Marino, CA, US",
+    "San Marino, United States"
+  ],
+  "478": [
+    37.4391876,
+    -79.16988820000002,
+    "Maier Museum of Art (Randolph College), Lynchburg, VA, US",
+    "Lynchburg, United States"
+  ],
+  "479": [
+    46.1977309,
+    6.1508991,
+    "Petit Palais, Geneva, Switzerland",
+    "Gen\u00e8ve, Switzerland"
+  ],
+  "480": [
+    47.04967,
+    8.307345999999999,
+    "Galerie Rosengart, Lucerne, Switzerland",
+    "Luzern, Switzerland"
+  ],
+  "481": [
+    41.3686304,
+    2.1598509,
+    "Joan Mir\u00f3 Foundation, Barcelona, Spain",
+    "Barcelona, Spain"
+  ],
+  "482": [
+    41.658389,
+    -91.53886740000002,
+    "University of Iowa Museum of Art, Iowa City, IA, US",
+    "Iowa City, United States"
+  ],
+  "483": [
+    41.3831913,
+    2.1668668,
+    "Barcelona Museum of Contemporary Art (MACBA), Barcelona, Spain",
+    "Barcelona, Spain"
+  ],
+  "484": [
+    47.2400411,
+    6.0229985,
+    "Mus\u00e9e des Beaux-Arts et d'arch\u00e9ologie de Besan\u00e7on, Besan\u00e7on, France",
+    "Besan\u00e7on, France"
+  ],
+  "485": [
+    46.676049,
+    5.553414200000001,
+    "Mus\u00e9e des Beaux-Arts de Lons-le-Saunier, Lons-le-Saunier, France",
+    "Lons-le-Saunier, France"
+  ],
+  "486": [
+    47.105062,
+    6.147640399999999,
+    "Mus\u00e9e Courbet, Ornans, France",
+    "Ors, France"
+  ],
+  "487": [
+    35.6793242,
+    139.3366063,
+    "Murauchi Art Museum, Tokyo, Japan",
+    "Hachioji, Japan"
+  ],
+  "488": [
+    48.8814198,
+    2.3335672,
+    "Mus\u00e9e de la Vie Romantique, Paris, France",
+    "Paris, France"
+  ],
+  "489": [
+    46.9915578,
+    6.935375700000001,
+    "Musee d'Art et d'Histoire, Neuchatel, Switzerland",
+    "Neuch\u00e2tel, Switzerland"
+  ],
+  "490": [
+    49.4222222,
+    0.2305556,
+    "Mus\u00e9e Eug\u00e8ne Boudin, Honfleur, France",
+    "Honfleur, France"
+  ],
+  "491": [
+    49.8906634,
+    2.2946932,
+    "Mus\u00e9e de Picardie, Amiens, France",
+    "Amiens, France"
+  ],
+  "492": [
+    46.812205,
+    -71.207741,
+    "Mus\u00e9e des Ursulines de Qu\u00e9bec, Quebec City, Canada",
+    "Qu\u00e9bec, Canada"
+  ],
+  "493": [
+    36.7461003,
+    3.0722615,
+    "National Museum of Fine Arts of Algiers, Algiers, Algeria",
+    "Algiers, Algeria"
+  ],
+  "494": [
+    43.3046188,
+    5.393891099999999,
+    "Mus\u00e9e des beaux-arts de Marseille, Marseille, France",
+    "Marseille, France"
+  ],
+  "495": [
+    49.6373893,
+    -1.6228758,
+    "Mus\u00e9e Thomas-Henry, Cherbourg, France",
+    "Cherbourg-en-Cotentin, France"
+  ],
+  "496": [
+    52.2317031,
+    21.0247603,
+    "National Museum, Warsaw, Poland",
+    "Warszawa, Poland"
+  ],
+  "497": [
+    48.8708001,
+    2.166848,
+    "Ch\u00e2teau de Malmaison, Rueil-Malmaison, France",
+    "Rueil-Malmaison, France"
+  ],
+  "498": [
+    57.6965284,
+    11.9806693,
+    "Gothenburg Museum of Art, Gothenburg, Sweden",
+    "Sweden"
+  ],
+  "499": [
+    35.7188351,
+    139.7765215,
+    "Tokyo National Museum, Tokyo, Japan",
+    "Taito City, Japan"
+  ],
+  "500": [
+    41.2213174,
+    1.7292971,
+    "Biblioteca Museu V\u00edctor Balaguer, Vilanova i la Geltr\u00fa, Spain",
+    "Vilanova i la Geltr\u00fa, Spain"
+  ],
+  "501": [
+    51.2525485,
+    6.6981731,
+    "Alex V\u00f6mel Gallery, D\u00fcsseldorf, Germany",
+    "Meerbusch, Germany"
+  ],
+  "502": [
+    47.4996311,
+    8.7289815,
+    "Kunsthalle Winterthur, Winterthur, Switzerland",
+    "Winterthur, Switzerland"
+  ],
+  "503": [
+    35.6314881,
+    139.6219859,
+    "Setagaya Art Museum, Tokyo, Japan",
+    "Setagaya City, Japan"
+  ],
+  "504": [
+    38.8978267,
+    -77.02301899999999,
+    "National Portrait Gallery, Washington, DC, USA",
+    "Washington, United States"
+  ],
+  "505": [
+    39.1144588,
+    -84.4967972,
+    "Cincinnati Art Museum, Cincinnati, OH, US",
+    "Cincinnati, United States"
+  ],
+  "506": [
+    55.689993,
+    12.577393100000002,
+    "Hirschsprung Collection, Copenhagen, Denmark",
+    "K\u00f8benhavn, Denmark"
+  ],
+  "507": [
+    57.72480709999999,
+    10.5969264,
+    "Skagens Museum, Skagen, Denmark",
+    "Skagen, Denmark"
+  ],
+  "508": [
+    56.4604109,
+    10.0407319,
+    "Randers Museum of Art, Randers, Denmark",
+    "Randers, Denmark"
+  ],
+  "509": [
+    45.441063,
+    12.3316317,
+    "Ca' Pesaro (International Gallery of Modern Art), Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "510": [
+    42.2936673,
+    -71.3073721,
+    "Davis Museum (Wellesley College), Wellesley, MA, US",
+    "Wellesley, United States"
+  ],
+  "511": [
+    48.8582019,
+    2.3615056,
+    "Mus\u00e9e Cognacq-Jay, Paris, France",
+    "Paris, France"
+  ],
+  "512": [
+    43.1576109,
+    -77.5881793,
+    "Memorial Art Gallery (University of Rochester), Rochester, NY, US",
+    "Rochester, United States"
+  ],
+  "513": [
+    49.2063056,
+    2.5863546,
+    "Mus\u00e9e d'Art et d'Arch\u00e9ologie de Senlis, Senlis, France",
+    "Senlis, France"
+  ],
+  "514": [
+    51.0383589,
+    3.7238335,
+    "Museum of Fine Arts, Ghent, Belgium",
+    "Gent, Belgium"
+  ],
+  "515": [
+    45.7939653,
+    3.1161445,
+    "Musee d'Art Roger-Quilliot, Clermont-Ferrand, France",
+    "Clermont-Ferrand, France"
+  ],
+  "516": [
+    48.8490507,
+    2.3502384,
+    "Saint-Nicolas-du-Chardonnet, Paris, France",
+    "Paris, France"
+  ],
+  "517": [
+    47.4901179,
+    4.3343493,
+    "Mus\u00e9e Municipal de Semur-en-Auxois, Semur-en-Auxois, France",
+    "Semur-en-Auxois, France"
+  ],
+  "518": [
+    51.0460426,
+    2.3825452,
+    "Mus\u00e9e des Beaux-Arts de Dunkerque, Dunkerque, France",
+    "Dunkerque, France"
+  ],
+  "519": [
+    50.2920421,
+    2.7736662000000005,
+    "Mus\u00e9e des Beaux Arts d'Arras, Arras, France",
+    "Arras, France"
+  ],
+  "520": [
+    42.997729,
+    -71.45561,
+    "Currier Museum of Art, Manchester, NH, US",
+    "Manchester, United States"
+  ],
+  "521": [
+    49.1860671,
+    -0.3616637,
+    "Musee des Beaux-Arts de Caen, Caen, France",
+    "Caen, France"
+  ],
+  "522": [
+    50.72559270000001,
+    1.6173396000000002,
+    "Ch\u00e2teau-mus\u00e9e de Boulogne-sur-Mer, Boulogne-sur-Mer, France",
+    "Boulogne-sur-Mer, France"
+  ],
+  "523": [
+    46.948891,
+    7.474098,
+    "Felix Klee Collection, Bern, Switzerland",
+    "Bern, Switzerland"
+  ],
+  "524": [
+    46.9476307,
+    7.450676199999999,
+    "Allenbach Collection, Bern, Switzerland",
+    "Bern, Switzerland"
+  ],
+  "525": [
+    46.948891,
+    7.474098,
+    "Zentrum Paul Klee, Bern, Switzerland",
+    "Bern, Switzerland"
+  ],
+  "526": [
+    -34.9138711,
+    -56.1646588,
+    "Museo Nacional de Artes Visuales, Montevideo, Uruguay",
+    "Montevideo, Uruguay"
+  ],
+  "527": [
+    45.0321322,
+    35.3827887,
+    "Aivazovsky National Art Gallery, Feodosiya, Ukraine",
+    "Feodosia"
+  ],
+  "528": [
+    55.7955151,
+    49.1094148,
+    "Tartarstan State Museum, Kazan, Russia",
+    "Kazan, Russia"
+  ],
+  "529": [
+    59.93006029999999,
+    30.2934921,
+    "Central Naval Museum, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "530": [
+    59.8863041,
+    29.908597600000004,
+    "Peterhof Palace, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "531": [
+    39.9318121,
+    32.801824800000006,
+    "Presidential Palace, Ankara, Turkey",
+    "T\u00fcrkiye"
+  ],
+  "532": [
+    46.9732249,
+    31.9860184,
+    "Mykolayiv Museum of Fine Arts (Vereshchagin Museum), Mykolayiv, Ukraine",
+    "Mykolaiv, Ukraine"
+  ],
+  "533": [
+    18.936504,
+    -99.248528,
+    "Rafael Coronel Collection, Cuernavaca, Mexico",
+    "Cuernavaca, Mexico"
+  ],
+  "534": [
+    19.4362023,
+    -99.1393955,
+    "Museo Nacional de Arte (MUNAL), Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "535": [
+    19.426003200000004,
+    -99.1862786,
+    "Museo Nacional de Antropologia (MNA), Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "536": [
+    34.7380757,
+    -92.2660985,
+    "Arkansas Arts Center, Little Rock, AR, US",
+    "Little Rock, United States"
+  ],
+  "537": [
+    19.3492989,
+    -99.1902979,
+    "Museo de Arte Carrillo Gil, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "538": [
+    19.436341,
+    -99.1308634,
+    "San Ildefonso College, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "539": [
+    19.422840600000004,
+    -99.1402404,
+    "Secretariat of Public Education Main Headquarters, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "540": [
+    19.4912218,
+    -98.8852824,
+    "Chapingo Autonomous University, Texcoco, Mexico",
+    "El Cooperativo, Mexico"
+  ],
+  "541": [
+    18.9212759,
+    -99.2331894,
+    "Palace of Cort\u00e9s, Cuernavaca, Mexico",
+    "Cuernavaca, Mexico"
+  ],
+  "542": [
+    19.4337824,
+    -99.1390513,
+    "Fomento Cultural Banamex, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "543": [
+    37.8038552,
+    -122.4172161,
+    "San Francisco Art Institute (SFAI), San Francisco, CA, US",
+    "San Francisco, United States"
+  ],
+  "544": [
+    19.4328868,
+    -99.1313531,
+    "Palacio Nacional, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "545": [
+    19.436172,
+    -99.1468564,
+    "Museo Mural Diego Rivera, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "546": [
+    49.4484179,
+    11.0752469,
+    "Germanisches Nationalmuseum, Nuremberg, Germany",
+    "N\u00fcrnberg, Germany"
+  ],
+  "547": [
+    50.9757079,
+    11.0342234,
+    "Angermuseum, Erfurt, Germany",
+    "Erfurt, Germany"
+  ],
+  "548": [
+    51.3423425,
+    12.3755975,
+    "Museum der Bildenden Kunste, Leipzig, Germany",
+    "Leipzig, Germany"
+  ],
+  "549": [
+    33.893204,
+    35.5163547,
+    "Sursock Museum, Beirut, Lebanon",
+    "Bayrut, Lebanon"
+  ],
+  "550": [
+    40.7727768,
+    -73.9651343,
+    "Alexandre Gallery, New York CIty, NY, US",
+    "New York, United States"
+  ],
+  "551": [
+    41.8942712,
+    -87.624628,
+    "Terra Museum of American Art, Chicago, IL, US",
+    "Chicago, United States"
+  ],
+  "552": [
+    50.0910966,
+    14.4016165,
+    "Prague Castle, Prague, Czech Republic",
+    "Czechia"
+  ],
+  "553": [
+    52.2477436,
+    21.0141275,
+    "Royal Castle, Warsaw, Poland",
+    "Warszawa, Poland"
+  ],
+  "554": [
+    50.4411509,
+    30.5145914,
+    "Museum of Western and Oriental Art (Khanenko Museum), Kyiv, Ukraine",
+    "Kyiv, Ukraine"
+  ],
+  "555": [
+    50.631225,
+    7.207031,
+    "Arp Museum Bahnhof Rolandseck, Remagen, Germany",
+    "Remagen, Germany"
+  ],
+  "556": [
+    55.7672139,
+    37.61393100000001,
+    "Moscow Museum of Modern Art, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "557": [
+    56.1411111,
+    47.2611111,
+    "Chuvash State Museum of Fine Arts, Cheboksary, Russia",
+    "Cheboksary, Russia"
+  ],
+  "558": [
+    58.0494719,
+    38.8563999,
+    "Rybinsk State Museum of History, Architecture and Fine Arts, Rybinsk, Russia",
+    "Rybinsk, Russia"
+  ],
+  "559": [
+    38.9436362,
+    -77.0526363,
+    "Hillwood Estate Museum and Gardens, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "560": [
+    42.4507153,
+    -76.48621140000002,
+    "Herbert F. Johnson Museum of Art (Cornell University), Ithaca, NY, US",
+    "Ithaca, United States"
+  ],
+  "561": [
+    32.3510414,
+    -86.20641069999999,
+    "Montgomery Musuem of  Fine Arts, Montgomery, AL, US",
+    "Montgomery, United States"
+  ],
+  "562": [
+    38.8959393,
+    -77.04009350000001,
+    "Corcoran Gallery of Art, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "563": [
+    33.4539316,
+    -112.0705604,
+    "Arizona State University, Phoenix, AZ, US",
+    "Phoenix, United States"
+  ],
+  "564": [
+    46.815412,
+    7.494729,
+    "Abegg-Stiftung, Bern, Switzerland",
+    "Riggisberg, Switzerland"
+  ],
+  "565": [
+    43.7784328,
+    11.2590196,
+    "Basilica di San Marco, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "566": [
+    43.8011772,
+    11.2856455,
+    "Convent of San Domenico, Fiesole, Italy",
+    "Fiesole, Italy"
+  ],
+  "567": [
+    50.9917,
+    12.44505,
+    "Lindenau-Museum, Altenburg, Germany",
+    "Altenburg, Germany"
+  ],
+  "568": [
+    45.4308333,
+    12.33,
+    "Vittorio Cini Collection, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "569": [
+    42.7170784,
+    12.1133109,
+    "Duomo di Orvieto, Orvieto, Italy",
+    "Orvieto, Italy"
+  ],
+  "570": [
+    43.11186060000001,
+    12.3885346,
+    "National Gallery of Umbria (Palazzo dei Priori), Perugia, Italy",
+    "Perugia, Italy"
+  ],
+  "571": [
+    41.9035185,
+    12.4561336,
+    "Palazzo Apostolico, Vatican",
+    "Vatican City, Vatican City"
+  ],
+  "572": [
+    51.0533882,
+    13.734706699999998,
+    "Gem\u00e4ldegalerie Alte Meister, Dresden, Germany",
+    "Dresden, Germany"
+  ],
+  "573": [
+    50.0608913,
+    19.9237599,
+    "National Museum, Krak\u00f3w, Poland",
+    "Krak\u00f3w, Poland"
+  ],
+  "574": [
+    37.9890229,
+    23.7327599,
+    "National Archaeological Museum, Athens, Greece",
+    "Athina, Greece"
+  ],
+  "575": [
+    59.9068083,
+    10.7215536,
+    "Astrup Fearnley Museum of Modern Art, Oslo, Norway",
+    "Norway"
+  ],
+  "576": [
+    53.2122827,
+    6.5660781,
+    "Groninger Museum, Groningen, Netherlands",
+    "Groningen, Netherlands"
+  ],
+  "577": [
+    48.1095975,
+    -1.6748047,
+    "Mus\u00e9e des Beaux-Arts de Rennes, Rennes, France",
+    "Rennes, France"
+  ],
+  "578": [
+    25.719375,
+    -80.2756722,
+    "Lowe Art Museum, Coral Gables, FL, US",
+    "Miami, United States"
+  ],
+  "579": [
+    30.0355965,
+    31.219586900000003,
+    "Mohamed Mahmoud Khalil Museum, Cairo, Egypt",
+    "Egypt"
+  ],
+  "580": [
+    55.830891,
+    -4.307628,
+    "Burrell Collection, Glasgow, UK",
+    "United Kingdom"
+  ],
+  "581": [
+    48.8928273,
+    2.0872026,
+    "Le Prieur\u00e9 (Mus\u00e9e d\u00e9partemental Maurice-Denis), Saint-Germain-en-Laye, France",
+    "Saint-Germain-en-Laye, France"
+  ],
+  "582": [
+    35.6925497,
+    139.6965181,
+    "Sompo Japan Nipponkoa Museum of Art, Tokyo, Japan",
+    "Shinjuku City, Japan"
+  ],
+  "583": [
+    43.6001483,
+    1.4421916,
+    "Bemberg Foundation (H\u00f4tel d'Ass\u00e9zat), Toulouse, France",
+    "Toulouse, France"
+  ],
+  "584": [
+    48.8631146,
+    2.3334945,
+    "Mus\u00e9e des Arts D\u00e9coratifs, Paris, France",
+    "Paris, France"
+  ],
+  "585": [
+    26.7006257,
+    -80.053595,
+    "Norton Museum of Art, Palm Beach, FL, US",
+    "West Palm Beach, United States"
+  ],
+  "586": [
+    48.8643421,
+    2.2978208,
+    "Mus\u00e9e de France, Paris, France",
+    "Paris, France"
+  ],
+  "587": [
+    43.3033704,
+    5.3927803,
+    "Mus\u00e9e Grobet-Labadi\u00e9, Marseille, France",
+    "Marseille, France"
+  ],
+  "588": [
+    48.8126067,
+    2.4224129,
+    "Mus\u00e9e Fragonard d'Alfort, Paris, France",
+    "Maisons-Alfort, France"
+  ],
+  "589": [
+    48.8686496,
+    2.1232186,
+    "Pavillon de Musique, Louveciennes, France",
+    "Louveciennes, France"
+  ],
+  "590": [
+    48.875553,
+    2.310422,
+    "Mus\u00e9e Jacquemart-Andr\u00e9, Paris, France",
+    "Paris, France"
+  ],
+  "591": [
+    50.8317111,
+    4.372625,
+    "Museum of Ixelles, Brussels, Belgium",
+    "Ixelles, Belgium"
+  ],
+  "592": [
+    48.0798572,
+    7.355491699999999,
+    "Mus\u00e9e Unterlinden, Colmar, France",
+    "Colmar, France"
+  ],
+  "593": [
+    48.8547742,
+    2.3249052,
+    "Musee Maillol, Paris, France",
+    "Paris, France"
+  ],
+  "594": [
+    50.351381800000006,
+    5.4550294,
+    "Brachot Gallery, Brussels, Belgium",
+    "Durbuy, Belgium"
+  ],
+  "595": [
+    50.4136318,
+    4.4432233,
+    "Palais des beaux-arts de Charleroi, Charleroi, Belgium",
+    "Charleroi, Belgium"
+  ],
+  "596": [
+    50.8424057,
+    4.3586407,
+    "Magritte Museum, Brussels, Belgium",
+    "Bruxelles, Belgium"
+  ],
+  "597": [
+    29.7373444,
+    -95.3985049,
+    "Menil Collection, Houston, TX, US",
+    "Houston, United States"
+  ],
+  "598": [
+    50.83000390000001,
+    4.3587243,
+    "Robert Giron Collection, Brussels, Belgium",
+    "Bruxelles, Belgium"
+  ],
+  "599": [
+    51.5067434,
+    -0.1382402,
+    "Mayor Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "600": [
+    45.4685277,
+    9.1916927,
+    "Museo Poldi Pezzoli, Milan, Italy",
+    "Milano, Italy"
+  ],
+  "601": [
+    52.4090067,
+    16.9296664,
+    "National Museum, Pozna\u0144, Poland",
+    "Pozna\u0144, Poland"
+  ],
+  "602": [
+    45.4704762,
+    9.1793325,
+    "Sforza Castle, Milan, Italy",
+    "Milano, Italy"
+  ],
+  "603": [
+    39.0449506,
+    -94.5809284,
+    "William Rockhill Nelson Gallery of Art, Kansas City, MO, US",
+    "Kansas City, United States"
+  ],
+  "604": [
+    41.0179193,
+    -73.63915709999999,
+    "Steven A. Cohen Collection, Greenwich, CT, US",
+    "Greenwich, United States"
+  ],
+  "605": [
+    48.9018726,
+    2.3424838,
+    "Henri Rouart Collection, Paris, France",
+    "Saint-Ouen-sur-Seine, France"
+  ],
+  "606": [
+    52.5208104,
+    13.3983529,
+    "Gem\u00e4ldegalerie, Berlin, Germany, Alte Nationalgalerie, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "607": [
+    41.903358,
+    12.489826,
+    "National Gallery of Ancient Art (GNAA), Rome, Italy",
+    "Roma, Italy"
+  ],
+  "608": [
+    45.4464968,
+    12.3326017,
+    "Madonna dell'Orto, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "609": [
+    19.4406926,
+    -99.2047001,
+    "Museo Soumaya, Mexico City, Mexico",
+    "Ciudad de M\u00e9xico, Mexico"
+  ],
+  "610": [
+    45.430675,
+    12.3347626,
+    "Santa Maria della Salute, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "611": [
+    45.4366834,
+    12.3253722,
+    "Scuola Grande di San Rocco, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "612": [
+    45.4333365,
+    12.3393987,
+    "Biblioteca Marciana, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "613": [
+    45.4337035,
+    12.3403894,
+    "Palazzo Ducale, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "614": [
+    44.4393668,
+    26.095874,
+    "National Museum of Art of Romania, Bucharest, Romania",
+    "Bucure\u0219ti, Romania"
+  ],
+  "615": [
+    45.4288691,
+    12.3438017,
+    "San Giorgio Maggiore, Venice, Italy",
+    "Venice, Italy"
+  ],
+  "616": [
+    50.1030925,
+    8.6740583,
+    "St\u00e4delsches Kunstinstitut und St\u00e4dtische Galerie (St\u00e4del),  Frankfurt am Main, Germany",
+    "Frankfurt am Main, Germany"
+  ],
+  "617": [
+    50.9807185,
+    11.3320264,
+    "Schloss Weimar, Weimar, Germany",
+    "Weimar, Germany"
+  ],
+  "618": [
+    49.8747138,
+    8.6535272,
+    "Hessisches Landesmuseum Darmstadt, Darmstadt, Germany",
+    "Darmstadt, Germany"
+  ],
+  "619": [
+    51.0522711,
+    13.7367092,
+    "Kupferstichkabinett Dresden, Dresden, Germany",
+    "Dresden, Germany"
+  ],
+  "620": [
+    48.1483311,
+    11.5699755,
+    "Alte Pinakothek, Munich, Germany, St\u00e4del, Frankfurt am Main, Germany",
+    "M\u00fcnchen, Germany"
+  ],
+  "621": [
+    51.4966392,
+    -0.17218,
+    "Victoria and Albert Museum (V&A), London, UK",
+    "United Kingdom"
+  ],
+  "622": [
+    48.1445716,
+    11.5664739,
+    "Staatliche Graphische Sammlung, Munich, Germany",
+    "M\u00fcnchen, Germany"
+  ],
+  "623": [
+    48.365,
+    10.89929,
+    "Bavarian State Painting Collections, Munich, Germany, Schaezlerpalais, Augsburg, Germany",
+    "Augsburg, Germany"
+  ],
+  "624": [
+    51.5589422,
+    -0.1798884,
+    "Fenton House, London, UK",
+    "United Kingdom"
+  ],
+  "625": [
+    55.9508229,
+    -3.2276361,
+    "Scottish National Gallery, Edinburgh, UK, Scottish National Gallery of Modern Art, Edinburgh, UK",
+    "United Kingdom"
+  ],
+  "626": [
+    51.5713882,
+    -0.1674543,
+    "Kenwood House, London, UK",
+    "United Kingdom"
+  ],
+  "627": [
+    41.9219822,
+    8.7383708,
+    "Musee Fesch, Ajaccio, France",
+    "Ajaccio, France"
+  ],
+  "628": [
+    38.9219585,
+    -77.0887965,
+    "Kress Collection, Washington, DC, US",
+    "Washington, United States"
+  ],
+  "629": [
+    -31.950531,
+    115.8608374,
+    "Art Gallery of Western Australia, Perth, Australia",
+    "Perth, Australia"
+  ],
+  "630": [
+    51.4958366,
+    -0.1086583999999999,
+    "Imperial War Museum, London, UK",
+    "United Kingdom"
+  ],
+  "631": [
+    45.4369864,
+    12.3266004,
+    "Santa Maria Gloriosa dei Frari, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "632": [
+    45.6664904,
+    12.2427519,
+    "Treviso Cathedral, Treviso, Italy",
+    "Treviso, Italy"
+  ],
+  "633": [
+    55.9508229,
+    -3.2276361,
+    "Scottish National Gallery of Modern Art, Edinburgh, UK, Scottish National Gallery, Edinburgh, UK",
+    "United Kingdom"
+  ],
+  "634": [
+    45.5370214,
+    10.2129769,
+    "Santi Nazaro e Celso, Brescia, Italy",
+    "Brescia, Italy"
+  ],
+  "635": [
+    45.5370214,
+    10.2129769,
+    "Church of Saints Nazarius and Celsus, Brescia, Italy",
+    "Brescia, Italy"
+  ],
+  "636": [
+    47.6433501,
+    9.1610128,
+    "Kisters Collection, Kreuzlingen, Switzerland",
+    "Kreuzlingen, Switzerland"
+  ],
+  "637": [
+    41.9015916,
+    12.4836896,
+    "Accademia di San Luca, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "638": [
+    40.867147200000005,
+    14.2508457,
+    "National Museum of Capodimonte, Naples, Italy",
+    "Napoli, Italy"
+  ],
+  "639": [
+    47.2358188,
+    6.0268193,
+    "Mus\u00e9e du Temps de Besan\u00e7on, Besan\u00e7on, France",
+    "Besan\u00e7on, France"
+  ],
+  "640": [
+    51.508929,
+    -0.128299,
+    "Kunsthistorisches Museum, Vienna, Austria, National Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "641": [
+    45.4433644,
+    12.3391345,
+    "I Gesuiti (Church of Santa Maria Assunta), Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "642": [
+    45.4367669,
+    12.3363838,
+    "San Salvador, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "643": [
+    49.3004779,
+    17.3935276,
+    "Krom\u011b\u0159\u00ed\u017e Archbishop's Palace, Krom\u011b\u0159\u00ed\u017e, Czech Republic",
+    "Czechia"
+  ],
+  "644": [
+    53.0111911,
+    18.6085472,
+    "Toru\u0144 Muzeum, Torun, Poland",
+    "Toru\u0144, Poland"
+  ],
+  "645": [
+    54.9034401,
+    37.4242362,
+    "Serpukhov Museum of History and Fine Arts, Serpukhov, Russia",
+    "Serpukhov, Russia"
+  ],
+  "646": [
+    54.9850886,
+    73.3728692,
+    "Omsk Regional Museum of Fine Arts (Vrubel Museum), Omsk, Russia",
+    "Omsk, Russia"
+  ],
+  "647": [
+    52.3765894,
+    4.6336281,
+    "Frans Hals Museum, Haarlem, Netherlands",
+    "Haarlem, Netherlands"
+  ],
+  "648": [
+    32.7485687,
+    -97.3649208,
+    "Art Institute of Chicago, Chicago, IL, US, Kimbell Art Museum, Fort Worth, TX, US",
+    "Fort Worth, United States"
+  ],
+  "649": [
+    46.4825815,
+    30.7430625,
+    "Odesa Museum of Western and Eastern Art, Odesa, Ukraine",
+    "Odesa, Ukraine"
+  ],
+  "650": [
+    51.3166904,
+    9.4046343,
+    "Schloss Wilhelmsh\u00f6he, Kassel, Germany",
+    "Kassel, Germany"
+  ],
+  "651": [
+    53.6264112,
+    11.4181525,
+    "Staatliches Museum Schwerin, Schwerin, Germany",
+    "Schwerin, Germany"
+  ],
+  "652": [
+    41.9182989,
+    12.4618288,
+    "Balla Collection, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "653": [
+    42.3708509,
+    -72.5155535,
+    "Mead Art Museum, Amherst, MA, US",
+    "Amherst, United States"
+  ],
+  "654": [
+    42.090829,
+    -76.80248399999999,
+    "Arnot Art Museum, Elmira, NY, US",
+    "Elmira, United States"
+  ],
+  "655": [
+    39.9522188,
+    -75.1932137,
+    "University of Pennsylvania (UPenn), Philadelphia, PA, US",
+    "Philadelphia, United States"
+  ],
+  "656": [
+    41.6643161,
+    -72.7915799,
+    "New Britain Museum of American Art, New Britain, CT, US",
+    "New Britain, United States"
+  ],
+  "657": [
+    42.655725,
+    -73.760233,
+    "Albany Institute of History and Art, Albany, NY, US",
+    "Albany, United States"
+  ],
+  "658": [
+    36.1257509,
+    -80.28268729999999,
+    "Reynolda House Museum of American Art, Winston-Salem, NC, US",
+    "Winston-Salem, United States"
+  ],
+  "659": [
+    54.0947655,
+    13.3823614,
+    "Pomeranian State Museum, Greifswald, Germany",
+    "Greifswald, Germany"
+  ],
+  "660": [
+    52.4042017,
+    13.0384999,
+    "Sanssouci, Potsdam, Germany",
+    "Potsdam, Germany"
+  ],
+  "661": [
+    52.3654877,
+    9.7401685,
+    "Lower Saxony State Museum, Hanover, Germany",
+    "Hannover, Germany"
+  ],
+  "662": [
+    47.500501,
+    8.729005899999999,
+    "Oskar Reinhart Foundation, Winterthur, Switzerland, Kunstmuseum Winterthur, Winterthur, Switzerland",
+    "Winterthur, Switzerland"
+  ],
+  "663": [
+    48.1498869,
+    11.5711139,
+    "Bavarian State Painting Collections, Munich, Germany, Neue Pinakothek, Munich, Germany",
+    "M\u00fcnchen, Germany"
+  ],
+  "664": [
+    50.0439752,
+    10.2362253,
+    "Museum Georg Sch\u00e4fer, Schweinfurt, Germany",
+    "Schweinfurt, Germany"
+  ],
+  "665": [
+    34.0545021,
+    -118.2501802,
+    "Broad, Los Angeles, CA, US",
+    "Los Angeles, United States"
+  ],
+  "666": [
+    40.7489569,
+    -74.00542480000001,
+    "Annina Nosei Gallery, New York City, NY, US",
+    "New York, United States"
+  ],
+  "667": [
+    40.7502223,
+    -74.0048159,
+    "Tony\u00a0Shafrazi Gallery, New York City, NY, US",
+    "New York, United States"
+  ],
+  "668": [
+    47.374387,
+    8.5354484,
+    "Daros Collection, Z\u00fcrich, Switzerland",
+    "Z\u00fcrich, Switzerland"
+  ],
+  "669": [
+    43.7699226,
+    11.2636048,
+    "Casa Buonarroti, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "670": [
+    44.4896262,
+    11.3440704,
+    "Basilica of St. Domenico, Bologna, Italy",
+    "Bologna, Italy"
+  ],
+  "671": [
+    43.7703981,
+    11.2580078,
+    "Bargello (Palazzo del Popolo), Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "672": [
+    41.9021667,
+    12.4539367,
+    "St. Peter's Basilica, Vatican",
+    "Citt\u00e0 del Vaticano, Vatican City"
+  ],
+  "673": [
+    43.3177019,
+    11.3289071,
+    "Duomo di Siena, Siena, Italy",
+    "Siena, Italy"
+  ],
+  "674": [
+    51.204328100000005,
+    3.224216,
+    "Church of Our Lady, Bruges, Belgium",
+    "Brugge, Belgium"
+  ],
+  "675": [
+    41.9029468,
+    12.4544835,
+    "Sistine Chapel, Vatican",
+    "Vatican City, Vatican City"
+  ],
+  "676": [
+    41.8937522,
+    12.492819,
+    "San Pietro in Vincoli, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "677": [
+    41.8979888,
+    12.4780226,
+    "Santa Maria sopra Minerva, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "678": [
+    43.7749619,
+    11.2538762,
+    "Basilica di San Lorenzo, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "679": [
+    43.7693012,
+    11.2561509,
+    "Palazzo Vecchio (Palazzo della Signoria), Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "680": [
+    43.773145,
+    11.2559602,
+    "Duomo di Firenze (Cattedrale di Santa Maria del Fiore), Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "681": [
+    41.5613314,
+    45.9802432,
+    "Niko Pirosmanashvili Museum, Mirzaani, Georgia",
+    "Mirzaani, Georgia"
+  ],
+  "682": [
+    41.6196632,
+    45.9229442,
+    "Sighnaghi Museum, Sighnaghi, Georgia",
+    "Sighnaghi, Georgia"
+  ],
+  "683": [
+    46.1961789,
+    6.1536532,
+    "M.T. Abraham Foundation, Geneva, Switzerland",
+    "Gen\u00e8ve, Switzerland"
+  ],
+  "684": [
+    42.2687103,
+    42.7040445,
+    "Kutaisi State Historical Museum, Kutaisi, Georgia",
+    "Kutaisi, Georgia"
+  ],
+  "685": [
+    48.20162,
+    16.3652434,
+    "Academy of Fine Arts Vienna, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "686": [
+    51.90119670000001,
+    -2.0777925,
+    "The Wilson (Cheltenham Art Gallery and Museum), Cheltenham, UK",
+    "United Kingdom"
+  ],
+  "687": [
+    49.411342,
+    8.7029391,
+    "Kurpf\u00e4lzisches Museum, Heidelberg, Germany",
+    "Heidelberg, Germany"
+  ],
+  "688": [
+    52.5209319,
+    13.2956165,
+    "Schloss Charlottenburg, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "689": [
+    51.4299626,
+    6.7658834,
+    "Lehmbruck Museum, Duisburg, Germany",
+    "Duisburg, Germany"
+  ],
+  "690": [
+    48.2026499,
+    16.3591421,
+    "Leopold Museum, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "691": [
+    51.4344277,
+    5.481885,
+    "Van Abbemuseum, Eindhoven, Netherlands",
+    "Eindhoven, Netherlands"
+  ],
+  "692": [
+    50.0686697,
+    22.2345896,
+    "\u0141a\u0144cut Castle, \u0141a\u0144cut, Poland",
+    "\u0141a\u0144cut, Poland"
+  ],
+  "693": [
+    43.4911279,
+    -1.4738194,
+    "Basque Museum, Bayonne, France",
+    "Bayonne, France"
+  ],
+  "694": [
+    47.558868,
+    8.499464,
+    "Gottfried Keller-Stiftung, Winterthur, Switzerland",
+    "Glattfelden, Switzerland"
+  ],
+  "695": [
+    41.6860874,
+    -73.8974068,
+    "Frances Lehman Loeb Art Center (Vassar College), Poughkeepsie, NY, US",
+    "Poughkeepsie, United States"
+  ],
+  "696": [
+    45.51615,
+    -122.683357,
+    "Portland Art Museum (PAM), Portland, OR, US",
+    "Portland, United States"
+  ],
+  "697": [
+    48.8661091,
+    2.3124544,
+    "Grand Palais, Paris, France",
+    "Paris, France"
+  ],
+  "698": [
+    47.2103652,
+    7.537481700000001,
+    "Kunstmuseum Solothurn, Solothurn, Switzerland",
+    "Solothurn, Switzerland"
+  ],
+  "699": [
+    42.8787306,
+    74.6108646,
+    "State museum of fine arts of Kyrgyzstan, Bishkek, Kyrgyzstan",
+    "Bishkek, Kyrgyzstan"
+  ],
+  "700": [
+    41.3027455,
+    69.2777892,
+    "Museum of Arts of Uzbekistan, Tashkent, Uzbekistan",
+    "\u0422\u043eshkent, Uzbekistan"
+  ],
+  "701": [
+    44.4198455,
+    34.0557808,
+    "Vorontsov Palace, Alupka, Ukraine",
+    "Alupka"
+  ],
+  "702": [
+    53.7570336,
+    87.1475117,
+    "Novokuznetsk Museum of Fine Arts, Novokuznetsk, Russia",
+    "Novokuznetsk, Russia"
+  ],
+  "703": [
+    51.7460128,
+    36.19072,
+    "Kursk State Art Gallery (Deyneka Museum), Kursk, Russia",
+    "Kursk, Russia"
+  ],
+  "704": [
+    53.3324043,
+    83.7991656,
+    "Altai Regional State Museum of Fine Arts, Barnaul, Russia",
+    "Barnaul, Russia"
+  ],
+  "705": [
+    64.54007539999999,
+    40.518008,
+    "Art \u0421ulture of Russian North Museum, Arkhangelsk, Russia",
+    "Arkhangel'sk, Russia"
+  ],
+  "706": [
+    58.602392300000005,
+    49.6688965,
+    "Kirov Regional Museum of Fine Arts (Vasnetsov Museum), Kirov, Russia",
+    "Kirov, Russia"
+  ],
+  "707": [
+    56.835186,
+    60.603519000000006,
+    "Ekaterinburg Museum of Fine Arts, Ekaterinburg, Russia",
+    "Yekaterinburg, Russia"
+  ],
+  "708": [
+    43.0290024,
+    44.6810385,
+    "North Ossetian Republican Museum of Fine Arts (Tuganov Museum), Vladikavkaz, Russia",
+    "Vladikavkaz, Russia"
+  ],
+  "709": [
+    51.8235664,
+    107.5817718,
+    "Buryat Republican Art Museum, Ulan-Ude, Russia",
+    "Ulan-Ude, Russia"
+  ],
+  "710": [
+    46.308056,
+    44.270564,
+    "Kalmyk State Art Gallery, Elista, Russia",
+    "Elista, Russia"
+  ],
+  "711": [
+    42.9822167,
+    47.5106613,
+    "Dagestan Museum of Fine Arts, Makhachkala, Russia",
+    "Makhachkala, Russia"
+  ],
+  "712": [
+    38.8881665,
+    -77.027384,
+    "Arthur M. Sackler Galler (Smithsonian Institution), Washington, DC, US",
+    "Washington, United States"
+  ],
+  "713": [
+    53.75045,
+    -2.484215,
+    "Blackburn Museum and Art Gallery, Blackburn, UK",
+    "United Kingdom"
+  ],
+  "714": [
+    50.692706,
+    3.1675586,
+    "La Piscine Museum, Roubaix, France",
+    "Roubaix, France"
+  ],
+  "715": [
+    44.4977566,
+    11.3534957,
+    "Pinacoteca Nazionale di Bologna, Bologna, Italy",
+    "Bologna, Italy"
+  ],
+  "716": [
+    41.8986606,
+    12.4869516,
+    "Palazzo Pallavicini-Rospigliosi, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "717": [
+    42.3579151,
+    -71.0620802,
+    "Boston Athenaeum, Boston, MA, US",
+    "Boston, United States"
+  ],
+  "718": [
+    34.8725832,
+    -82.3624705,
+    "Bob Jones University (BJU), Greenville, SC, US",
+    "Greenville, United States"
+  ],
+  "719": [
+    41.905024,
+    12.488567800000002,
+    "Santa Maria della Concezione de Cappuccini, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "720": [
+    53.5775324,
+    -2.431335,
+    "Bolton Museum, Bolton, UK",
+    "United Kingdom"
+  ],
+  "721": [
+    45.4393794,
+    12.3417127,
+    "Basilica dei Santi Giovanni e Paolo (San Zanipolo), Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "722": [
+    50.988319,
+    -0.6107195,
+    "Petworth House, Sussex, UK",
+    "United Kingdom"
+  ],
+  "723": [
+    48.8553072,
+    2.3158354,
+    "Mus\u00e9e Rodin, Paris, France",
+    "Paris, France"
+  ],
+  "724": [
+    45.5345442,
+    10.2259491,
+    "Pinacoteca Tosio Martinengo, Brescia, Italy",
+    "Brescia, Italy"
+  ],
+  "725": [
+    43.7677856,
+    11.2553108,
+    "Uffizi Gallery, Florence, Italy, Louvre, Paris, France",
+    "Firenze, Italy"
+  ],
+  "726": [
+    52.5090131,
+    13.3660136,
+    "Staatliche Museen zu Berlin, Berlin, Germany, Gem\u00e4ldegalerie, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "727": [
+    41.8945105,
+    12.4659926,
+    "Villa Farnesina, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "728": [
+    43.7244344,
+    12.6365429,
+    "National Gallery of the Marches (Palazzo Ducale di Urbino), Urbino, Italy",
+    "Urbino, Italy"
+  ],
+  "729": [
+    43.767492,
+    11.2594189,
+    "Museo Horne, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "730": [
+    41.9057336,
+    12.4523066,
+    "Vatican Museums, Vatican, Pinacoteca Vaticana, Vatican",
+    "Citt\u00e0 del Vaticano, Vatican City"
+  ],
+  "731": [
+    41.9008431,
+    12.4742802,
+    "Basilica of Sant'Agostino, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "732": [
+    41.903358,
+    12.489826,
+    "Palazzo Barberini, Rome, Italy, National Gallery of Ancient Art (GNAA), Rome, Italy",
+    "Roma, Italy"
+  ],
+  "733": [
+    52.1359953,
+    -0.4642261,
+    "Higgins Art Gallery, Bedford, UK",
+    "United Kingdom"
+  ],
+  "734": [
+    41.5933262,
+    1.8376757,
+    "Santa Maria de Montserrat Abbey, Monistrol de Montserrat, Spain",
+    "Montserrat, Spain"
+  ],
+  "735": [
+    47.4637719,
+    3.7432666,
+    "Mus\u00e9e Zervos (Maison Romain Rolland), V\u00e9zelay, France",
+    "V\u00e9zelay, France"
+  ],
+  "736": [
+    47.3535039,
+    8.560658,
+    "Nathan Collection, Z\u00fcrich, Switzerland",
+    "Z\u00fcrich, Switzerland"
+  ],
+  "737": [
+    45.44259290000001,
+    10.979264,
+    "Basilica di San Zeno, Verona, Italy",
+    "Verona, Italy"
+  ],
+  "738": [
+    47.3947523,
+    0.6941017,
+    "Musee des Beaux-Arts de Tours, Tours, France",
+    "Tours, France"
+  ],
+  "739": [
+    48.8569229,
+    2.3618595,
+    "Bibliotheque historique de la Ville de Paris (BHVP), Paris, France",
+    "Paris, France"
+  ],
+  "740": [
+    53.7738178,
+    -2.2224241,
+    "Towneley Hall Art Gallery and Museum, Burnley, UK",
+    "United Kingdom"
+  ],
+  "741": [
+    53.6152118,
+    -2.1621343,
+    "Rochdale Art Gallery, Rochdale, UK",
+    "United Kingdom"
+  ],
+  "742": [
+    56.1122809,
+    -3.1659822,
+    "Kirkcaldy Galleries, Kirkcaldy, UK",
+    "United Kingdom"
+  ],
+  "743": [
+    53.5402362,
+    -2.1092586,
+    "Oldham Gallery, Oldham, UK",
+    "United Kingdom"
+  ],
+  "744": [
+    50.3744456,
+    -4.1375089,
+    "Plymouth Museum and Art Gallery, Plymouth, UK",
+    "United Kingdom"
+  ],
+  "745": [
+    54.9764598,
+    -1.607071,
+    "Northumbria University, Newcastle upon Tyne , UK",
+    "United Kingdom"
+  ],
+  "746": [
+    50.15592290000001,
+    -5.0723708,
+    "Falmouth Art Gallery, Cornwall, UK",
+    "United Kingdom"
+  ],
+  "747": [
+    53.3558121,
+    -2.9993465,
+    "Lady Lever Art Gallery, Port Sunlight, UK",
+    "Bebington, United Kingdom"
+  ],
+  "748": [
+    51.507595300000006,
+    -0.0993564,
+    "Tate Modern, London, UK, Tate Britain, London, UK",
+    "United Kingdom"
+  ],
+  "749": [
+    53.37365570000001,
+    -2.9214061,
+    "Sudley House, Liverpool, UK",
+    "United Kingdom"
+  ],
+  "750": [
+    51.4247097,
+    -0.5667494,
+    "Royal Holloway University of London, London, UK",
+    "United Kingdom"
+  ],
+  "751": [
+    41.3684399,
+    2.15357,
+    "Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain",
+    "Barcelona, Spain"
+  ],
+  "752": [
+    45.1879219,
+    9.1547345,
+    "Pinacoteca Malaspina, Pavia, Italy",
+    "Pavia, Italy"
+  ],
+  "753": [
+    59.33716949999999,
+    18.0424529,
+    "Bonniers Konsthall, Stockholm, Sweden",
+    "Sweden"
+  ],
+  "754": [
+    51.5423369,
+    -0.0108323,
+    "British Council, London, UK",
+    "United Kingdom"
+  ],
+  "755": [
+    35.288883,
+    136.919837,
+    "Menard Art Museum, Komaki, Japan",
+    "Komaki, Japan"
+  ],
+  "756": [
+    25.1023554,
+    121.5484925,
+    "National Palace Museum, Taipei, Taiwan",
+    "Taiwan"
+  ],
+  "757": [
+    61.0070909,
+    14.5379399,
+    "Zorn Collections, Mora, Sweden",
+    "Sweden"
+  ],
+  "758": [
+    35.5527514,
+    -82.56369049999999,
+    "Biltmore Estate, Asheville, NC, US",
+    "Asheville, United States"
+  ],
+  "759": [
+    43.6945205,
+    7.2488375,
+    "Mus\u00e9e des Beaux-Arts de Nice (Jules Ch\u00e9ret), Nice, France",
+    "Nice, France"
+  ],
+  "760": [
+    52.083748,
+    5.12591,
+    "Centraal Museum, Utrecht, Netherlands",
+    "Utrecht, Netherlands"
+  ],
+  "761": [
+    52.3647678,
+    4.8940318,
+    "P. and N. de Boer Foundation, Amsterdam, Netherlands",
+    "Amsterdam, Netherlands"
+  ],
+  "762": [
+    47.496418,
+    8.735343,
+    "Villa Flora (Hahnloser Collection), Winterthur, Switzerland",
+    "Winterthur, Switzerland"
+  ],
+  "763": [
+    47.5528851,
+    7.5974932,
+    "F. Hagemann Collection, Basel, Switzerland",
+    "Basel, Switzerland"
+  ],
+  "764": [
+    52.5856975,
+    -1.9857459,
+    "New Art Gallery Walsall, Walsall, UK",
+    "United Kingdom"
+  ],
+  "765": [
+    52.08534,
+    4.295673799999999,
+    "W. van Eck-Nieuwenhuizen Segaar Collection, Hague, Netherlands",
+    "Den Haag, Netherlands"
+  ],
+  "766": [
+    52.0892421,
+    4.3169378,
+    "Kunsthandel Ivo Bouwman Collection, Hague, Netherlands",
+    "Den Haag, Netherlands"
+  ],
+  "767": [
+    45.5251388,
+    -73.575282,
+    "Fran\u00e7ois Odermatt Collection, Montreal, Canada",
+    "Montr\u00e9al, Canada"
+  ],
+  "768": [
+    51.526308,
+    -0.1058481,
+    "F.A.C. Gu\u00e9pin Estate, London, UK",
+    "United Kingdom"
+  ],
+  "769": [
+    46.1998461,
+    6.1331051,
+    "Galerie Jan Krugier, Geneva, Switzerland",
+    "Gen\u00e8ve, Switzerland"
+  ],
+  "770": [
+    34.444985,
+    135.4532224,
+    "Kuboso Memorial Museum of Arts, Izumi, Japan",
+    "Izumi, Japan"
+  ],
+  "771": [
+    44.4279428,
+    26.0863859,
+    "National Museum of Contemporary Art (MNAC), Bucharest, Romania",
+    "Bucure\u0219ti, Romania"
+  ],
+  "772": [
+    50.8100523,
+    4.3538278,
+    "Musee David and Alice Van Buuren, Brussels, Belgium",
+    "Uccle, Belgium"
+  ],
+  "773": [
+    34.670949,
+    135.4942647,
+    "Takahata Art Gallery, Osaka, Japan",
+    "Osaka, Japan"
+  ],
+  "774": [
+    39.0330206,
+    -94.5813282,
+    "Henry W. Bloch Collection, Shawnee Mission, KS, US",
+    "Kansas City, United States"
+  ],
+  "775": [
+    40.7843958,
+    -73.9578732,
+    "Cooper Hewitt (Smithsonian Design) Museum, New York City, NY, US",
+    "New York, United States"
+  ],
+  "776": [
+    43.9460023,
+    4.8069707,
+    "Mus\u00e9e Angladon, Avignon, France",
+    "Avignon, France"
+  ],
+  "777": [
+    51.5080954,
+    -0.1358605,
+    "Helly Nahmad Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "778": [
+    36.3845443,
+    140.2582756,
+    "Kasama Nichido Museum of Art, Kasama, Japan",
+    "Kasama, Japan"
+  ],
+  "779": [
+    51.508045,
+    -0.141065,
+    "Faggionato Fine Arts, London, UK",
+    "United Kingdom"
+  ],
+  "780": [
+    48.865189,
+    2.3034243,
+    "Jacques Dubour Collection, Paris, France",
+    "Paris, France"
+  ],
+  "781": [
+    10.4840066,
+    -66.8434983,
+    "Ernesto Blohm Collection, Caracas, Venezuela",
+    "Caracas, Venezuela"
+  ],
+  "782": [
+    37.9756209,
+    23.7493586,
+    "National Art Gallery (Alexandros Soutzos Museum), Athens, Greece",
+    "Athina, Greece"
+  ],
+  "783": [
+    52.2365077,
+    0.2440102999999999,
+    "Anglesea Abbey, Lode, UK",
+    "Lode, United Kingdom"
+  ],
+  "784": [
+    50.715260400000005,
+    7.1208996,
+    "Kunstmuseum Bonn, Bonn, Germany",
+    "Bonn, Germany"
+  ],
+  "785": [
+    51.514999,
+    7.4533332,
+    "Museum Ostwall (MO), Dortmund, Germany",
+    "Dortmund, Germany"
+  ],
+  "786": [
+    47.7984568,
+    13.045674000000002,
+    "Residenzgalerie, Salzburg, Austria",
+    "Salzburg, Austria"
+  ],
+  "787": [
+    45.04856,
+    9.6918779,
+    "Ricci Oddi Gallery of Modern Art, Piacenza, Italy",
+    "Piacenza, Italy"
+  ],
+  "788": [
+    41.1213295,
+    16.881661299999998,
+    "Pinacoteca metropolitana di Bari, Bari, Italy",
+    "Bari, Italy"
+  ],
+  "789": [
+    43.5353924,
+    10.3058103,
+    "Museo civico Giovanni Fattori, Livorno, Italy",
+    "Livorno, Italy"
+  ],
+  "790": [
+    48.4021018,
+    2.6994844,
+    "Palace of Fontainebleau, Paris, France",
+    "Fontainebleau, France"
+  ],
+  "791": [
+    43.6666655,
+    -79.35584399999999,
+    "Tanenbaum Collection, Toronto, Canada",
+    "Toronto, Canada"
+  ],
+  "792": [
+    41.896044,
+    12.4692007,
+    "Santa Maria in Monserrato degli Spagnoli, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "793": [
+    41.8955544,
+    12.5092224,
+    "Santa Bibiana, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "794": [
+    41.911491,
+    12.4766557,
+    "Santa Maria del Popolo, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "795": [
+    41.8991633,
+    12.4730742,
+    "Piazza Navona, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "796": [
+    41.9046449,
+    12.4942942,
+    "Santa Maria della Vittoria, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "797": [
+    41.9035192,
+    12.478609,
+    "San Lorenzo in Lucina, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "798": [
+    41.885166,
+    12.4731468,
+    "San Francesco a Ripa, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "799": [
+    42.3285134,
+    12.2368853,
+    "Scala Regia, Vatican",
+    "Caprarola, Italy"
+  ],
+  "800": [
+    41.8932176,
+    12.4826273,
+    "Palazzo dei Conservatori, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "801": [
+    53.1444173,
+    8.2146549,
+    "State Museum for Art and Cultural History, Oldenburg, Germany",
+    "Oldenburg, Germany"
+  ],
+  "802": [
+    43.9082622,
+    -69.9637635,
+    "Bowdoin College Museum of Art, Brunswick, ME, US",
+    "Brunswick, United States"
+  ],
+  "803": [
+    52.6424936,
+    -0.4525310999999999,
+    "Burghley House, Stamford, UK",
+    "Peterborough, United Kingdom"
+  ],
+  "804": [
+    53.6527624,
+    -1.3899445,
+    "Nostell Priory, Nostell, UK",
+    "Nostell, United Kingdom"
+  ],
+  "805": [
+    46.8512842,
+    9.5323132,
+    "B\u00fcndner Kunstmuseum, Chur, Switzerland",
+    "Chur, Switzerland"
+  ],
+  "806": [
+    51.6865682,
+    5.3047134,
+    "Noordbrabants Museum, 's-Hertogenbosch, Netherlands",
+    "'s-Hertogenbosch, Netherlands"
+  ],
+  "807": [
+    46.5794103,
+    0.3481564,
+    "Mus\u00e9e Sainte-Croix, Poitiers, France",
+    "Poitiers, France"
+  ],
+  "808": [
+    29.9864722,
+    -90.09345,
+    "New Orleans Museum of Art (NOMA), New Orleans, LA, US",
+    "New Orleans, United States"
+  ],
+  "809": [
+    51.5299717,
+    -0.1276758999999999,
+    "British Library, London, UK",
+    "United Kingdom"
+  ],
+  "810": [
+    51.2155166,
+    4.4053164,
+    "Museum Mayer van den Bergh, Antwerp, Belgium",
+    "Antwerpen, Belgium"
+  ],
+  "811": [
+    52.1099349,
+    -1.4617094,
+    "Upton House, Upton, UK",
+    "United Kingdom"
+  ],
+  "812": [
+    50.0916483,
+    14.4049501,
+    "Lobkowicz Palace, Prague Castle, Prague, Czech Republic",
+    "Czechia"
+  ],
+  "813": [
+    43.0749709,
+    12.6054003,
+    "Basilica of Saint Francis of Assisi, Assisi, Italy",
+    "Assisi, Italy"
+  ],
+  "814": [
+    43.765359,
+    11.2549957,
+    "San Giorogio alla Costa, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "815": [
+    45.4118177,
+    11.8795357,
+    "Scrovegni (Arena) Chapel, Padua, Italy",
+    "Padova, Italy"
+  ],
+  "816": [
+    43.774634600000006,
+    11.2493859,
+    "Santa Maria Novella, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "817": [
+    43.7685683,
+    11.2622677,
+    "Basilica di Santa Croce, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "818": [
+    40.8075355,
+    -73.9625727,
+    "Columbia University, New York City, NY, US",
+    "New York, United States"
+  ],
+  "819": [
+    -22.9088,
+    -43.1756856,
+    "Museu Nacional de Belas Artes, Rio de Janeiro, Brazil",
+    "Brazil"
+  ],
+  "820": [
+    40.4258946,
+    -3.6987643,
+    "Museum of Romanticism, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "821": [
+    52.3652532,
+    4.9024055,
+    "Amsterdams Historisch Museum, Amsterdam, Netherlands",
+    "Amsterdam, Netherlands"
+  ],
+  "822": [
+    50.084328,
+    14.4275632,
+    "Mucha Museum, Prague, Czech Republic",
+    "Czechia"
+  ],
+  "823": [
+    42.6961762,
+    23.3341771,
+    "National Gallery for Foreign Art, Sofia, Bulgaria",
+    "Sofia, Bulgaria"
+  ],
+  "824": [
+    30.0483167,
+    31.2336674,
+    "Egyptian Museum, Cairo, Egypt",
+    "Egypt"
+  ],
+  "825": [
+    45.4335634,
+    12.3372551,
+    "Museo Correr, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "826": [
+    48.8779074,
+    2.3344737,
+    "Mus\u00e9e National Gustave Moreau, Paris, France",
+    "Paris, France"
+  ],
+  "827": [
+    51.194099,
+    6.698294,
+    "Clemens-Sels-Museum, Neuss, Germany",
+    "Neuss, Germany"
+  ],
+  "828": [
+    47.5038691,
+    19.0389758,
+    "Reformed Church Collection, Budapest, Hungary",
+    "Budapest, Hungary"
+  ],
+  "829": [
+    51.8660881,
+    12.642406,
+    "Cranach-H\u00f6fe, Wittenberg, Germany",
+    "Wittenberg, Germany"
+  ],
+  "830": [
+    51.863987,
+    12.652436,
+    "Lutherhaus, Wittenberg, Germany",
+    "Lutherstadt Wittenberg, Germany"
+  ],
+  "831": [
+    50.9458837,
+    10.7049731,
+    "Friedenstein Castle, Gotha, Germany",
+    "Gotha, Germany"
+  ],
+  "832": [
+    50.2444994,
+    11.3277634,
+    "Fr\u00e4nkische Galerie, Kronach, Germany",
+    "Kronach, Germany"
+  ],
+  "833": [
+    52.467358700000005,
+    13.2614229,
+    "Jagdschlo\u00df Grunewald, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "834": [
+    49.017839,
+    12.10207,
+    "Regensburg Museum of History, Regensburg, Germany",
+    "Regensburg, Germany"
+  ],
+  "835": [
+    49.411342,
+    8.7029391,
+    "Kurpfalzisches Museum, Heidelberg, Germany",
+    "Heidelberg, Germany"
+  ],
+  "836": [
+    51.8665879,
+    12.6451219,
+    "Stadtkirche Wittenberg, Wittenberg, Germany",
+    "Lutherstadt Wittenberg, Germany"
+  ],
+  "837": [
+    45.43354050000001,
+    12.3268258,
+    "Ca' Rezzonico (Museo del Settecento), Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "838": [
+    45.436704,
+    12.34148,
+    "Querini Stampalia Foundation, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "839": [
+    44.0626144,
+    12.5669794,
+    "Museo della citt\u00e0 di Rimini, Rimini, Italy",
+    "Rimini, Italy"
+  ],
+  "840": [
+    45.4549511,
+    12.352637800000002,
+    "San Pietro Martire, Murano, Italy",
+    "Venezia, Italy"
+  ],
+  "841": [
+    45.5492948,
+    11.5477363,
+    "Santa Corona, Vicenza, Italy",
+    "Vicenza, Italy"
+  ],
+  "842": [
+    45.4383474,
+    12.34752,
+    "San Francesco della Vigna, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "843": [
+    45.4391497,
+    12.3372449,
+    "San Giovanni Crisostomo, Venice, Italy",
+    "Venice, Italy"
+  ],
+  "844": [
+    60.4540897,
+    22.2619453,
+    "Turku Art Museum, Turku, Finland",
+    "Turku, Finland"
+  ],
+  "845": [
+    55.7517701,
+    37.6088686,
+    "Russian State Library, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "846": [
+    34.423404999999995,
+    -119.7039316,
+    "Santa Barbara Museum of Art (SBMA), Santa Barbara, CA, US",
+    "Santa Barbara, United States"
+  ],
+  "847": [
+    40.802939,
+    -73.969002,
+    "Nicholas Roerich Museum, New York City, NY, US",
+    "New York, United States"
+  ],
+  "848": [
+    48.2987289,
+    38.0207587,
+    "Horlivka Museum of Fine Arts, Horlivka, Ukraine",
+    "Horlivka, Ukraine"
+  ],
+  "849": [
+    59.35212370000001,
+    29.516555,
+    "Nicholas Roerich Estate Museum, Izvara, Russia",
+    "Izvara, Russia"
+  ],
+  "850": [
+    59.94476599999999,
+    30.301195000000003,
+    "Pushkin House (Institute of Russian Literature), Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "851": [
+    55.8309224,
+    37.6277815,
+    "Roerich Museum, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "852": [
+    55.7561111,
+    37.6,
+    "State Museum of Oriental Art, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "853": [
+    54.7243538,
+    55.93647,
+    "Bashkirian State Museum of Fine Arts (Nesterov Museum), Ufa, Russia",
+    "Ufa, Russia"
+  ],
+  "854": [
+    49.55709410000001,
+    30.0474358,
+    "Intercession of the Theotokos Church, Parkhomivka, Ukraine",
+    "Parkhomivka, Ukraine"
+  ],
+  "855": [
+    55.7586931,
+    37.5959253,
+    "New Hermitage Gallery, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "856": [
+    59.8539244,
+    30.0582688,
+    "Constantine Palace, Strelna, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "857": [
+    59.9209195,
+    30.3878507,
+    "Alexander Nevsky Lavra, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "858": [
+    50.0055284,
+    25.5087492,
+    "Trinity Cathedral (Pochayiv Lavra), Pochayiv, Ukraine",
+    "Pochaiv, Ukraine"
+  ],
+  "859": [
+    55.7602178,
+    37.6129679,
+    "Moskow Art Theatre Museum, Moscow, Russia",
+    "Moskva, Russia"
+  ],
+  "860": [
+    54.6586056,
+    32.2093404,
+    "Holy Spirit Church, Talashkino, Russia",
+    "Flenovo, Russia"
+  ],
+  "861": [
+    45.0176767,
+    38.9678249,
+    "Krasnodar Regional Museum of Fine Arts, Krasnodar, Russia",
+    "Krasnodar, Russia"
+  ],
+  "862": [
+    47.215479,
+    38.921204,
+    "Taganrog City Architectural Development Museum, Taganrog, Russia",
+    "Taganrog, Russia"
+  ],
+  "863": [
+    37.9353841,
+    58.3750523,
+    "Turkmen Museum of Fine Arts, Ashgabat, Turkmenistan",
+    "A\u015fgabat, Turkmenistan"
+  ],
+  "864": [
+    40.4997532,
+    -74.4458397,
+    "Zimmerli Art Museum (Rutgers University), New Brunswick, NJ, US",
+    "New Brunswick, United States"
+  ],
+  "865": [
+    33.8753934,
+    -84.3337356,
+    "Oglethorpe University Museum of Art, Atlanta, GA, US",
+    "Brookhaven, United States"
+  ],
+  "866": [
+    42.3756903,
+    -72.5198762,
+    "Amherst Center for Russian Culture (Amherst College), Amherst, MA, US",
+    "Amherst, United States"
+  ],
+  "867": [
+    47.919570500000006,
+    106.9210461,
+    "Mongolia Museum of Art, Ulaanbaatar, Mongolia",
+    "Ulaanbaatar, Mongolia"
+  ],
+  "868": [
+    22.579626,
+    88.3733973,
+    "Jagdish Chandra Bose Memorial Foundation, Kolkata, West Bengal, India",
+    "Kolkata, India"
+  ],
+  "869": [
+    25.27149,
+    82.995994,
+    "Bharat Kala Bhavan (Banaras Hindu University), Varanasi, Uttar Pradesh, India",
+    "Varanasi, India"
+  ],
+  "870": [
+    28.635309,
+    77.164503,
+    "Indian Agricultural Research Institute, Pooshan, New Delhi, India",
+    "New Delhi, India"
+  ],
+  "871": [
+    56.955829,
+    24.1130754,
+    "Latvian National Museum of Art, Riga, Latvia",
+    "R\u012bga, Latvia"
+  ],
+  "872": [
+    25.4568486,
+    81.8489522,
+    "Allahabad Museum, Allahabad, Uttar Pradesh, India",
+    "Prayagraj, India"
+  ],
+  "873": [
+    8.5109315,
+    76.9552662,
+    "Sree Chitra Art Gallery, Thiruvananthapuram, Kerala, India",
+    "Thiruvathapuram, India"
+  ],
+  "874": [
+    55.0217857,
+    82.9211681,
+    "Novosibirsk State Museum of Fine Arts, Novosibirsk, Russia",
+    "Novosibirsk, Russia"
+  ],
+  "875": [
+    12.9748052,
+    77.6080535,
+    "Kedzhrivala Collection, Bangalore, Karnataka, India",
+    "Bengaluru, India"
+  ],
+  "876": [
+    22.5430326,
+    88.3453644,
+    "Academy of Fine Arts, Kolkata, West Bengal, India",
+    "Kolkata, India"
+  ],
+  "877": [
+    22.5550876,
+    88.35067389999999,
+    "Asiatic Society, Kolkata, West Bengal, India",
+    "Kolkata, India"
+  ],
+  "878": [
+    49.4493413,
+    7.7692038,
+    "Museum Pfalzgalerie Kaiserslautern, Kaiserslautern, Germany",
+    "Kaiserslautern, Germany"
+  ],
+  "879": [
+    44.4108677,
+    8.930216399999999,
+    "Palazzo Spinola di Pellicceria (Palazzo Francesco Grimaldi), Genoa, Italy",
+    "Genova, Italy"
+  ],
+  "880": [
+    41.8982461,
+    12.469125,
+    "Santa Maria in Vallicella, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "881": [
+    41.8932221,
+    12.466840500000002,
+    "Palazzo Corsini, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "882": [
+    48.1483311,
+    11.5699755,
+    "Alte Pinakothek, Munich, Germany, Capitoline Museums, Rome, Italy",
+    "M\u00fcnchen, Germany"
+  ],
+  "883": [
+    45.4326292,
+    12.3329865,
+    "Santa Maria del Giglio (Santa Maria Zobenigo), Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "884": [
+    50.8566538,
+    4.3591429,
+    "Belfius Collection, Brussels, Belgium",
+    "Bruxelles, Belgium"
+  ],
+  "885": [
+    41.9375509,
+    12.4425405,
+    "Antonio Russo Collection, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "886": [
+    45.646992,
+    13.7630972,
+    "Revoltella Museum, Trieste, Italy",
+    "Trieste, Italy"
+  ],
+  "887": [
+    51.2217771,
+    4.4059778,
+    "Rockox House, Antwerp, Belgium",
+    "Antwerpen, Belgium"
+  ],
+  "888": [
+    51.0785664,
+    -1.8592917,
+    "Wilton House, Salisbury, UK",
+    "Wilton, United Kingdom"
+  ],
+  "889": [
+    55.7878156,
+    37.284601,
+    "Arkhangelskoye Palace, Krasnogorsk, Russia",
+    "Arkhangel'skoe, Russia"
+  ],
+  "890": [
+    49.6108879,
+    6.1327603,
+    "Grand Ducal Palace, Luxembourg City, Luxembourg",
+    "Luxembourg, Luxembourg"
+  ],
+  "891": [
+    51.483894,
+    -0.6044027,
+    "Windsor Castle, Windsor, UK",
+    "United Kingdom"
+  ],
+  "892": [
+    51.4036128,
+    -0.3377622999999999,
+    "Hampton Court Palace, London, UK",
+    "Molesey, United Kingdom"
+  ],
+  "893": [
+    42.275398,
+    -83.7401174,
+    "University of Michigan Museum of Art (UMMA), Ann Arbor, MI, US",
+    "Ann Arbor, United States"
+  ],
+  "894": [
+    42.0146901,
+    2.9832657,
+    "Gala-Salvador Dal\u00ed Foundation, P\u00fabol, Spain",
+    "P\u00fabol, Spain"
+  ],
+  "895": [
+    37.9605722,
+    -121.3138609,
+    "Haggin Museum, Stockton, CA, US",
+    "Stockton, United States"
+  ],
+  "896": [
+    48.8599614,
+    2.3265614,
+    "Mus\u00e9e d'Orsay, Paris, France, Louvre, Paris, France",
+    "Paris, France"
+  ],
+  "897": [
+    43.0386502,
+    -76.1336922,
+    "Syracuse University, Syracuse, NY, US",
+    "Syracuse, United States"
+  ],
+  "898": [
+    29.4372761,
+    -98.4821898,
+    "San Antonio Museum of Art, San Antonio, TX, US",
+    "San Antonio, United States"
+  ],
+  "899": [
+    37.4329672,
+    -122.1705266,
+    "Iris and B. Gerald Cantor Center for Visual Arts, Stanford University, Stanford, CA, US",
+    "Stanford, United States"
+  ],
+  "900": [
+    48.8545018,
+    2.375917,
+    "Kharbine-Tapabor Collection, Paris, France",
+    "Paris, France"
+  ],
+  "901": [
+    51.5209832,
+    -0.169508,
+    "Lisson Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "902": [
+    55.7495732,
+    37.6134111,
+    "Kremlin Armoury, Moscow, Russia",
+    "Moscow, Russia"
+  ],
+  "903": [
+    52.4669201,
+    13.2747741,
+    "Br\u00fccke Museum, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "904": [
+    48.397031,
+    9.994573,
+    "Ulmer Museum, Ulm, Germany",
+    "Ulm, Germany"
+  ],
+  "905": [
+    53.3801192,
+    -1.466868,
+    "Graves Art Gallery, Sheffield, UK",
+    "United Kingdom"
+  ],
+  "906": [
+    -30.0290983,
+    -51.2316907,
+    "Rio Grande do Sul Museum of Art (MARGS), Porto Alegre, Brazil",
+    "Brazil"
+  ],
+  "907": [
+    48.858572,
+    2.329241,
+    "Normand Gallery, Paris, France",
+    "Paris, France"
+  ],
+  "908": [
+    43.7559225,
+    11.2785012,
+    "National Gallery, London, UK, Fondazione Roberto Longhi, Florence, Italy",
+    "Firenze, Italy"
+  ],
+  "909": [
+    41.9072325,
+    12.4872558,
+    "Casino di Villa Boncompagni Ludovisi, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "910": [
+    39.8571004,
+    -4.0235688,
+    "Toledo Cathedral, Toledo, Spain",
+    "Toledo, Spain"
+  ],
+  "911": [
+    41.8929428,
+    12.4825577,
+    "Louvre, Paris, France, Capitoline Museums, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "912": [
+    41.8996366,
+    12.474812600000002,
+    "San Luigi dei Francesi, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "913": [
+    41.8980008,
+    12.4827299,
+    "Odescalchi Balbi Collection, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "914": [
+    43.8802461,
+    11.0948154,
+    "Cassa di Risparmio di Prato (Cariprato), Prato, Italy, Palazzo degli Alberti, Prato, Italy",
+    "Prato, Italy"
+  ],
+  "915": [
+    44.4113966,
+    8.9319934,
+    "Palazzo Rosso, Genoa, Italy, Palazzo Bianco, Genoa, Italy",
+    "Genova, Italy"
+  ],
+  "916": [
+    45.1380304,
+    10.0216579,
+    "Museo Civico Ala Ponzone, Cremona, Italy",
+    "Cremona, Italy"
+  ],
+  "917": [
+    40.8519604,
+    14.2603592,
+    "Pio Monte della Misericordia, Naples, Italy",
+    "Napoli, Italy"
+  ],
+  "918": [
+    35.8975921,
+    14.512495099999995,
+    "St. Johns Co-Cathedral, Valletta, Malta",
+    "Il-Belt Valletta, Malta"
+  ],
+  "919": [
+    37.0576672,
+    15.2945216,
+    "Bellomo Palace Museum, Syracuse, Italy",
+    "Siracusa, Italy"
+  ],
+  "920": [
+    40.839814,
+    14.2486185,
+    "Palazzo Zevallos Stigliano, Naples, Italy",
+    "Napoli, Italy"
+  ],
+  "921": [
+    41.905024,
+    12.488567800000002,
+    "Santa Maria della Concezione de Cappuccini, Rome, Italy, National Gallery of Ancient Art (GNAA), Rome, Italy",
+    "Roma, Italy"
+  ],
+  "922": [
+    38.7048412,
+    -9.1614643,
+    "National Museum of Ancient Art (MNAA), Lisbon, Portugal",
+    "Lisboa, Portugal"
+  ],
+  "923": [
+    48.211076,
+    16.393286,
+    "KunstHausWien, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "924": [
+    48.7579133,
+    8.2377266,
+    "Museum Frieder Burda, Baden-Baden, Germany",
+    "Baden-Baden, Germany"
+  ],
+  "925": [
+    48.9321459,
+    2.3560385,
+    "Mus\u00e9e d'Art et d'Histoire de Saint-Denis, Saint-Denis, France",
+    "Saint-Denis, France"
+  ],
+  "926": [
+    52.1628978,
+    4.4875113,
+    "Museum De Lakenhal, Leiden, Netherlands",
+    "Leiden, Netherlands"
+  ],
+  "927": [
+    47.2672023,
+    11.3977049,
+    "Tyrolean State Museum, Innsbruck, Austria",
+    "Innsbruck, Austria"
+  ],
+  "928": [
+    59.939831700000006,
+    30.3145597,
+    "Gothenburg Museum of Art, Gothenburg, Sweden, Hermitage Museum, Saint Petersburg, Russia",
+    "Sankt-Peterburg, Russia"
+  ],
+  "929": [
+    52.369369,
+    4.901235,
+    "Rembrandt House Museum, Amsterdam, Netherlands",
+    "Amsterdam, Netherlands"
+  ],
+  "930": [
+    51.524559200000006,
+    -0.1340401,
+    "University College London (UCL), London, UK",
+    "United Kingdom"
+  ],
+  "931": [
+    52.3599976,
+    4.8852188,
+    "Amsterdams Historisch Museum, Amsterdam, Netherlands, Rijksmuseum, Amsterdam, Netherlands",
+    "Amsterdam, Netherlands"
+  ],
+  "932": [
+    35.809885699999995,
+    -78.7025784,
+    "Uppsala University, Uppsala, Sweden, North Carolina Museum of Art (NCMA), Raleigh, NC, US",
+    "Raleigh, United States"
+  ],
+  "933": [
+    44.4113966,
+    8.9319934,
+    "Palazzo Bianco, Genoa, Italy",
+    "Genova, Italy"
+  ],
+  "934": [
+    53.8078983,
+    -1.5533401999999998,
+    "Brotherton Library (University of Leeds), Leeds, UK",
+    "United Kingdom"
+  ],
+  "935": [
+    51.4910621,
+    -0.1277886,
+    "National Portrait Gallery, London, UK, Tate Britain, London, UK",
+    "United Kingdom"
+  ],
+  "936": [
+    42.3493136,
+    -71.0781875,
+    "Boston Public Library, Boston, MA, US",
+    "Boston, United States"
+  ],
+  "937": [
+    40.0242346,
+    -75.3140106,
+    "Bryn Mawr College, Lower Merion Township, PA, US",
+    "Bryn Mawr, United States"
+  ],
+  "938": [
+    53.8109536,
+    -1.7223438999999998,
+    "Bradford Museums and Galleries, Bradford, UK",
+    "United Kingdom"
+  ],
+  "939": [
+    47.3209371,
+    5.0422566,
+    "Mus\u00e9e Magnin, Dijon, France",
+    "Dijon, France"
+  ],
+  "940": [
+    49.0237521,
+    1.1508601,
+    "Evreux Museum, Evreux, France",
+    "\u00c9vreux, France"
+  ],
+  "941": [
+    50.4835013,
+    30.472050900000003,
+    "St. Cyril's Monastery, Kyiv, Ukraine",
+    "Kyiv, Ukraine"
+  ],
+  "942": [
+    35.6617254,
+    139.7329813,
+    "Yoshii Gallery, Tokyo, Japan",
+    "Minato City, Japan"
+  ],
+  "943": [
+    33.8242137,
+    -116.5499366,
+    "Palm Springs Art Museum, Palm Springs, CA, US",
+    "Palm Springs, United States"
+  ],
+  "944": [
+    32.7632123,
+    35.0180456,
+    "Hecht Museum (University of Haifa), Haifa, Israel",
+    "Haifa, Israel"
+  ],
+  "945": [
+    48.81456250000001,
+    2.1047193,
+    "Grand Trianon, Paris, France",
+    "Versailles, France"
+  ],
+  "946": [
+    48.199437,
+    16.37296,
+    "Vienna Museum, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "947": [
+    45.7965788,
+    24.1506643,
+    "Brukenthal National Museum, Sibiu, Romania",
+    "Sibiu, Romania"
+  ],
+  "948": [
+    31.7585876,
+    -106.4902692,
+    "Columbia Museum of Art, Columbia, SC, US, El Paso Museum of Art, El Paso, TX, US",
+    "El Paso, United States"
+  ],
+  "949": [
+    51.4993695,
+    -0.1272993,
+    "Westminster Abbey, London, UK",
+    "United Kingdom"
+  ],
+  "950": [
+    51.4810058,
+    -0.0052261999999999,
+    "National Maritime Museum, London, UK",
+    "United Kingdom"
+  ],
+  "951": [
+    50.8562911,
+    -0.5539038,
+    "Arundel Castle, Arundel, UK",
+    "United Kingdom"
+  ],
+  "952": [
+    48.8554541,
+    2.2809102,
+    "Maison de Balzac, Paris, France",
+    "Paris, France"
+  ],
+  "953": [
+    49.4192921,
+    2.8311798,
+    "Ch\u00e2teau de Compi\u00e8gne, Compi\u00e8gne, France",
+    "Compi\u00e8gne, France"
+  ],
+  "954": [
+    33.8697914,
+    130.8264967,
+    "Kitakyushu Municipal Museum of Art, Fukuoka, Japan",
+    "Kitakyushu, Japan"
+  ],
+  "955": [
+    46.9473361,
+    7.4309647,
+    "Kornfeld Collection, Bern, Switzerland",
+    "Bern, Switzerland"
+  ],
+  "956": [
+    31.6965307,
+    -89.1304265,
+    "Lauren Rogers Museum of Art, Laurel, MS, US",
+    "Laurel, United States"
+  ],
+  "957": [
+    51.2277503,
+    6.806883099999999,
+    "Konrad Fischer Galerie, D\u00fcsseldorf, Germany",
+    "D\u00fcsseldorf, Germany"
+  ],
+  "958": [
+    51.3303147,
+    6.5593996,
+    "Kunstmuseen Krefeld, Krefeld, Germany",
+    "Krefeld, Germany"
+  ],
+  "959": [
+    51.567339,
+    5.0741577,
+    "De Pont Museum of Contemporary Art, Tilburg, Netherlands",
+    "Tilburg, Netherlands"
+  ],
+  "960": [
+    45.5352801,
+    10.2233344,
+    "Sant'Alessandro, Brescia, Italy",
+    "Brescia, Italy"
+  ],
+  "961": [
+    45.4396999,
+    10.9877855,
+    "Castelvecchio Museum, Verona, Italy",
+    "Verona, Italy"
+  ],
+  "962": [
+    53.37365570000001,
+    -2.9214061,
+    "Sudley Art Gallery, Liverpool, UK",
+    "United Kingdom"
+  ],
+  "963": [
+    51.688171,
+    -1.638417,
+    "Kelmscott Manor, Kelmscott, UK",
+    "Kelmscott, United Kingdom"
+  ],
+  "964": [
+    51.4957417,
+    -3.2177556,
+    "Llandaff Cathedral, Llandaff, UK",
+    "United Kingdom"
+  ],
+  "965": [
+    50.7175492,
+    -1.8705153,
+    "Russell Cotes Museum, Bournemouth, UK",
+    "United Kingdom"
+  ],
+  "966": [
+    51.6694865,
+    -1.6504287,
+    "Buscot Park (Faringdon Collection), Faringdon, UK",
+    "United Kingdom"
+  ],
+  "967": [
+    55.9518276,
+    -3.2241621,
+    "Scottish National Gallery, Edinburgh, UK, Tate Britain, London, UK",
+    "United Kingdom"
+  ],
+  "968": [
+    42.3740898,
+    -71.11435820000001,
+    "Fogg Museum (Harvard Art Museums), Cambridge, MA, US, Harvard Art Museums, Cambridge, MA, US",
+    "Cambridge, United States"
+  ],
+  "969": [
+    41.3852706,
+    2.1809472,
+    "Museu Picasso, Barcelona, Spain",
+    "Barcelona, Spain"
+  ],
+  "970": [
+    42.4859276,
+    2.7485335,
+    "Mus\u00e9e d'Art moderne de C\u00e9ret, Ceret, France",
+    "C\u00e9ret, France"
+  ],
+  "971": [
+    43.5807611,
+    7.1282519,
+    "Mus\u00e9e Picasso, Antibes, France",
+    "Antibes, France"
+  ],
+  "972": [
+    30.2808109,
+    -97.7376838,
+    "Blanton Museum of Art (University of Texas), Austin, TX, US",
+    "Austin, United States"
+  ],
+  "973": [
+    43.6008332,
+    1.4294097,
+    "Espace d'Art Moderne et Contemporain, Toulouse, France",
+    "Toulouse, France"
+  ],
+  "974": [
+    37.9650887,
+    -87.57284109999999,
+    "Evansville Museum of Arts, History and Science, Evansville, IN, US",
+    "Evansville, United States"
+  ],
+  "975": [
+    43.5715794,
+    12.1414401,
+    "Museo Civico di Sansepolcro, Sansepolcro, Italy",
+    "Sansepolcro, Italy"
+  ],
+  "976": [
+    44.0596811,
+    12.570214,
+    "Tempio Malatestiano, Rimini, Italy",
+    "Rimini, Italy"
+  ],
+  "977": [
+    43.4646328,
+    11.8809476,
+    "Basilica of San Francesco, Arezzo, Italy",
+    "Arezzo, Italy"
+  ],
+  "978": [
+    50.6376189,
+    3.1502014,
+    "Lille M\u00e9tropole Museum of Modern, Contemporary and Outsider Art (LaM), Lille, France",
+    "Villeneuve-d'Ascq, France"
+  ],
+  "979": [
+    47.3853061,
+    8.5535068,
+    "Thomas Ammann Fine Art, Z\u00fcrich, Switzerland",
+    "Z\u00fcrich, Switzerland"
+  ],
+  "980": [
+    47.5572051,
+    7.5916513,
+    "Paul Sacher Collection, Basel, Switzerland",
+    "Basel, Switzerland"
+  ],
+  "981": [
+    43.7007173,
+    7.1148738,
+    "Maeght Foundation, Saint-Paul-de-Vence, France",
+    "Saint-Paul-de-Vence, France"
+  ],
+  "982": [
+    59.25604059999999,
+    17.219451199999998,
+    "Gripsholm Castle, Mariefred, Sweden, Nationalmuseum, Stockholm, Sweden",
+    "Mariefred, Sweden"
+  ],
+  "983": [
+    48.1469831,
+    11.5630631,
+    "Bavarian State Painting Collections, Munich, Germany, Mus\u00e9e d'Art Moderne de la Ville de Paris, Paris, France",
+    "M\u00fcnchen, Germany"
+  ],
+  "984": [
+    48.8610102,
+    2.3556112,
+    "Mus\u00e9e d'Art et d'Histoire du Juda\u00efsme, Paris, France",
+    "Paris, France"
+  ],
+  "985": [
+    31.7945578,
+    35.241400899999995,
+    "Hebrew University of Jerusalem, Jerusalem, Israel",
+    "Jerusalem, Israel"
+  ],
+  "986": [
+    49.1203081,
+    6.1757974,
+    "Cath\u00e9drale Saint-\u00c9tienne de Metz, Metz, France",
+    "Metz, France"
+  ],
+  "987": [
+    48.8719697,
+    2.3316014,
+    "Palais Garnier (Op\u00e9ra Garnier), Paris, France",
+    "Paris, France"
+  ],
+  "988": [
+    53.1995198,
+    5.7945743,
+    "Fries Museum, Leeuwarden, Netherlands",
+    "Leeuwarden, Netherlands"
+  ],
+  "989": [
+    52.0812446,
+    4.3124908,
+    "Bredius Museum, Hague, Netherlands",
+    "Den Haag, Netherlands"
+  ],
+  "990": [
+    51.8144917,
+    4.6717451,
+    "Dordrechts Museum, Dordrecht, Netherlands,",
+    "Dordrecht, Netherlands"
+  ],
+  "991": [
+    43.7020394,
+    -72.28731979999999,
+    "Hood Museum of Art (Dartmouth College), Hanover, NH, US",
+    "Hanover, United States"
+  ],
+  "992": [
+    51.5070721,
+    -0.137395,
+    "Maas Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "993": [
+    39.978538,
+    -82.00981279999999,
+    "Zanesville Museum of Art, Zanesville, OH, US",
+    "Zanesville, United States"
+  ],
+  "994": [
+    50.8223517,
+    -0.1376855,
+    "Royal Pavilion, Brighton, UK",
+    "Brighton and Hove, United Kingdom"
+  ],
+  "995": [
+    40.2507587,
+    -111.6479756,
+    "Brigham Young University Museum of Art, Provo, UT, US",
+    "Provo, United States"
+  ],
+  "996": [
+    59.88883070000001,
+    10.5532851,
+    "Henie Onstad Kunstsenter, H\u00f8vikodden, Norway",
+    "Norway"
+  ],
+  "997": [
+    48.865101800000005,
+    2.2937604,
+    "Guimet Museum, Paris, France",
+    "Paris, France"
+  ],
+  "998": [
+    44.2035656,
+    0.6160511,
+    "Mus\u00e9e des Beaux-Arts d'Agen, Agen, France",
+    "Agen, France"
+  ],
+  "999": [
+    40.4104996,
+    -3.7145483,
+    "Basilica of San Francisco el Grande, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "1000": [
+    41.6482973,
+    -0.8788009999999999,
+    "Museo de Zaragoza, Zaragoza, Spain",
+    "Zaragoza, Spain"
+  ],
+  "1001": [
+    54.5419731,
+    -1.9154952,
+    "Bowes Museum, Barnard Castle, UK",
+    "United Kingdom"
+  ],
+  "1002": [
+    39.4752858,
+    -0.3754667,
+    "Valencia Cathedral, Valencia, Spain",
+    "Val\u00e8ncia, Spain"
+  ],
+  "1003": [
+    40.4253914,
+    -3.7255898,
+    "Ermita de San Antonio de la Florida, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "1004": [
+    40.4637278,
+    -3.7058455,
+    "Marques de Casa Torres Collection, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "1005": [
+    40.42573670000001,
+    -3.7006699,
+    "Museo de Historia de Madrid, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "1006": [
+    43.4623627,
+    -3.8123434,
+    "Museum of Fine Arts, Santander, Spain",
+    "Santander, Spain"
+  ],
+  "1007": [
+    40.424005,
+    -3.6992456,
+    "Escuelas P\u00edas de San Ant\u00f3n, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "1008": [
+    43.9293954,
+    2.1433425,
+    "Musee Toulouse-Lautrec, Albi, France",
+    "Albi, France"
+  ],
+  "1009": [
+    48.365,
+    10.89929,
+    "Schaezlerpalais, Augsburg, Germany",
+    "Augsburg, Germany"
+  ],
+  "1010": [
+    41.8975194,
+    12.4848394,
+    "Palazzo Colonna, Rome, Italy",
+    "Roma, Italy"
+  ],
+  "1011": [
+    37.4417581,
+    24.9410302,
+    "Holy Cathedral of the Dormition of the Virgin, Ermoupoli, Greece",
+    "Ermoupoli, Greece"
+  ],
+  "1012": [
+    35.3419151,
+    25.1309159,
+    "Historical Museum of Crete, Heraclion, Greece",
+    "Iraklio, Greece"
+  ],
+  "1013": [
+    42.0113738,
+    -4.5371326,
+    "Palencia Cathedral, Palencia, Spain",
+    "Palencia, Spain"
+  ],
+  "1014": [
+    39.8594961,
+    -4.0282012,
+    "Monastery of Saint Dominic of Silos, Toledo, Spain",
+    "Toledo, Spain"
+  ],
+  "1015": [
+    42.5183182,
+    -7.516962500000001,
+    "College of Our Lady of Antigua, Monforte de Lemos, Spain",
+    "Monforte de Lemos, Spain"
+  ],
+  "1016": [
+    39.8597236,
+    -4.020408,
+    "Santa Cruz Museum, Toledo, Spain",
+    "Toledo, Spain"
+  ],
+  "1017": [
+    39.8566992,
+    -4.0283221,
+    "Toledo Cathedral, Toledo, Spain, Iglesia de Santo Tom\u00e9, Toledo, Spain",
+    "Toledo, Spain"
+  ],
+  "1018": [
+    41.2349068,
+    1.8124215,
+    "Cau Ferrat Museum, Sitges, Spain",
+    "Sitges, Spain"
+  ],
+  "1019": [
+    40.4333632,
+    -3.6902316,
+    "Instituto Valencia de Don Juan, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "1020": [
+    40.4237732,
+    -3.7145417,
+    "Museo Cerralbo, Madrid, Spain",
+    "Madrid, Spain"
+  ],
+  "1021": [
+    39.8556543,
+    -4.0286981,
+    "El Greco Museum, Toledo, Spain",
+    "Toledo, Spain"
+  ],
+  "1022": [
+    40.1255048,
+    -3.8498246,
+    "Capilla mayor (Hospital de la Caridad), Illescas, Spain",
+    "Illescas, Spain"
+  ],
+  "1023": [
+    45.0815943,
+    7.654477,
+    "Turin City Museum of Ancient Art, Turin, Italy",
+    "Torino, Italy"
+  ],
+  "1024": [
+    51.0531331,
+    3.7265132999999993,
+    "St. Bavo Cathedral, Ghent, Belgium",
+    "Gent, Belgium"
+  ],
+  "1025": [
+    51.2052205,
+    3.2266679,
+    "Groeningemuseum, Bruges, Belgium",
+    "Brugge, Belgium"
+  ],
+  "1026": [
+    39.3299013,
+    -76.6205177,
+    "Johns Hopkins University, Baltimore, MD, US",
+    "Baltimore, United States"
+  ],
+  "1027": [
+    40.7562508,
+    -73.998475,
+    "Nathan Cummings Collection, New York City, NY, US",
+    "New York, United States"
+  ],
+  "1028": [
+    46.8912559,
+    7.5043456,
+    "Walter Hadorn collection, Bern, Switzerland",
+    "Belp, Switzerland"
+  ],
+  "1029": [
+    35.669203,
+    139.76066799999998,
+    "Fujikawa Galleries, Tokyo, Japan",
+    "Chuo City, Japan"
+  ],
+  "1030": [
+    41.9047722,
+    12.4549549,
+    "Vatican Library (Biblioteca Apostolica Vaticana), Vatican",
+    "Citt\u00e0 del Vaticano, Vatican City"
+  ],
+  "1031": [
+    43.310221,
+    -73.6341,
+    "Hyde Collection Art Museum, Glens Falls, NY, US, Kelvingrove Art Gallery and Museum, Glasgow, UK",
+    "Glens Falls, United States"
+  ],
+  "1032": [
+    37.1763713,
+    -3.5986062999999997,
+    "Capilla Real de Granada, Granada, Spain",
+    "Granada, Spain"
+  ],
+  "1033": [
+    49.763143,
+    10.8210658,
+    "Schloss Weissenstein, Pommersfelden,  Germany",
+    "Pommersfelden, Germany"
+  ],
+  "1034": [
+    44.4938814,
+    11.3410625,
+    "Palazzo d'Accursio (Palazzo Comunale), Bologna, Italy",
+    "Bologna, Italy"
+  ],
+  "1035": [
+    51.4986897,
+    -0.2030209,
+    "Leighton House Museum, London, UK",
+    "United Kingdom"
+  ],
+  "1036": [
+    51.5055757,
+    -0.1456283,
+    "Piccadilly Gallery, London, UK",
+    "United Kingdom"
+  ],
+  "1037": [
+    -45.8744648,
+    170.50300629999998,
+    "Dunedin Public Art Gallery, Dunedin, New Zealand",
+    "Dunedin, New Zealand"
+  ],
+  "1038": [
+    51.485682,
+    -3.1768499,
+    "National Museum Cardiff, Cardiff, UK, Staatsgalerie Stuttgart, Stuttgart, Germany",
+    "United Kingdom"
+  ],
+  "1039": [
+    48.2076148,
+    16.3815476,
+    "Museum of Applied Arts, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "1040": [
+    48.2062609,
+    16.3668953,
+    "Austrian National Library (\u00d6NB), Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "1041": [
+    47.362292,
+    8.555193,
+    "Swiss Institute for Art Research, Z\u00fcrich, Switzerland",
+    "Z\u00fcrich, Switzerland"
+  ],
+  "1042": [
+    48.210744,
+    16.365797399999998,
+    "Wurthle Gallery, Vienna, Austria",
+    "Wien, Austria"
+  ],
+  "1043": [
+    48.308522,
+    14.288806,
+    "Neue Galerie des Stadt Linz (Wolfgang-Gurlitt-Museum), Linz, Austria",
+    "Linz, Austria"
+  ],
+  "1044": [
+    52.5090131,
+    13.3660136,
+    "Gem\u00e4ldegalerie, Berlin, Germany, Staatliche Museen zu Berlin, Berlin, Germany",
+    "Berlin, Germany"
+  ],
+  "1045": [
+    45.4370076,
+    12.3422213,
+    "Palazzo Grimani di Santa Maria Formosa, Venice, Italy",
+    "Venezia, Italy"
+  ],
+  "1046": [
+    50.357631,
+    3.530721,
+    "Mus\u00e9e des Beaux-Arts de Valenciennes, Valenciennes, France",
+    "Valenciennes, France"
+  ],
+  "1047": [
+    48.8544557,
+    2.3355825,
+    "Mus\u00e9e national Eug\u00e8ne Delacroix, Paris, France",
+    "Paris, France"
+  ],
+  "1048": [
+    39.9655697,
+    -75.18096609999999,
+    "Louvre, Paris, France, Philadelphia Museum of Art, Philadelphia, PA, US",
+    "Philadelphia, United States"
+  ],
+  "1049": [
+    49.6108879,
+    6.1327603,
+    "Louvre, Paris, France, Grand Ducal Palace, Luxembourg City, Luxembourg",
+    "Luxembourg, Luxembourg"
+  ],
+  "1050": [
+    48.8619033,
+    2.3186484000000003,
+    "Palais Bourbon, Paris, France",
+    "Paris, France"
+  ],
+  "1051": [
+    46.1521586,
+    5.6081225,
+    "Saint-Michel Church, Nantua, France",
+    "Nantua, France"
+  ],
+  "1052": [
+    33.790344999999995,
+    -84.3243433,
+    "Michael C. Carlos Museum (Emory University), Atlanta, GA, US",
+    "Atlanta, United States"
+  ],
+  "1053": [
+    48.8509814,
+    2.3350051,
+    "Saint-Sulpice, Paris, France",
+    "Paris, France"
+  ],
+  "1054": [
+    40.745914,
+    -73.8467247,
+    "Queens Museum of Art, New York City, NY, US",
+    "United States"
+  ]
+}
